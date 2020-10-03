@@ -15,6 +15,51 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p><em>A bachelor student at <a href="https://www.bracu.ac.bd/">BRAC University</a>, majoring in Computer Science and Engineering.</br>
+</em></p>
+
+```javascript
+const aboutMe = {
+   languages: [Javascript, Typescript, Sass, Python, Dart],
+   libraries: {
+      frontEnd: {
+        js: [React, webpack, babel, eslint],
+        react: [Material UI, React Router, Redux, Styled Components, Formik],
+        css: [PostCSS, react[3]],
+        graphql: [Apollo Graphql]
+      },
+      backEnd: {
+        ORM: [Mongoose],
+        cmd: [yargs]
+      },
+      testing: [Puppeteer, Jest]
+   },
+   
+   frameworks: {
+      backEnd: {
+        server: [Express].
+      }
+   }
+   
+   technologies: {
+      backEnd: {
+          API: [REST, Graphql]
+         js: ["Node"],
+      },
+      databases: ["MongoDB"]
+   },
+   
+   tools: {
+      versionControl: [Git],
+      apiTesting: [POSTMan],
+      CI_CD: [Github Actions],
+      WebHosting: [Heroku, Github Pages, Netlify]
+   }
+   
+   currentOccupation: ["First year student", "Contributing to Open source", "Learning new technologies", "Solidifying existing knowledge"],
+};
+```
+
 <h2 align="center">You can catch me at</h2>
 
 <p align="center">
@@ -39,7 +84,7 @@ Here are some ideas to get you started:
   </a>  
 </p>
 
-<div>
+<div style="display: flex; justify-content: center;">
   <img src="https://www.codewars.com/users/Devorein/badges/large" alt="Devon Reid's Codewars badge" style="display: block;">
 </div>
 
