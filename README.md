@@ -18,13 +18,15 @@ Here are some ideas to get you started:
 <p><em>A bachelor student at <a href="https://www.bracu.ac.bd/">BRAC University</a>, majoring in Computer Science and Engineering.</br>
 </em></p>
 
+<h2 align="center">Here's the detail of my current knowledge</h2>
 ```javascript
 const aboutMe = {
+   pronouns: "he"|"him",
    languages: ["Javascript", "Typescript", "Sass", "Python", "Dart"],
    libraries: {
       frontEnd: {
         js: ["React", "webpack", "babel", "eslint"],
-        react: ["Material UI", "React Router", "Redux", "Styled Components", "Formik"],
+        react: ["Material UI", "React Router", "Redux", "Styled Components", "Formik", "Storybook"],
         css: ["PostCSS", react[3]],
         graphql: ["Apollo Graphql"]
       },
@@ -48,14 +50,14 @@ const aboutMe = {
       },
       databases: ["MongoDB"]
    },
-   
+   // 🛠️
    tools: {
       versionControl: ["Git"],
       apiTesting: ["POSTMan"],
       CI_CD: ["Github Actions"],
-      WebHosting: ["Heroku", "Github Pages", "Netlify"]
+      WebHosting: ["Heroku", "Github Pages", "Netlify"],
+      editors: ["VSCode"]
    }
-   
    currentOccupation: ["First year student", "Contributing to Open source", "Learning new technologies", "Solidifying existing knowledge"],
 };
 ```
@@ -87,6 +89,13 @@ const aboutMe = {
 <div align="center">
   <img src="https://www.codewars.com/users/Devorein/badges/large" alt="Devon Reid's Codewars badge" style="display: block;">
 </div>
+
+<h3> Connect with Me at </h3>
+
+<p align="center">
+<a href="mailto:devorein00@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-devorein00@gmail.com-blue?style=flat&logo=gmail"></a>
+<a href="https://discord.com/channels/@me"><img alt="Email" src="https://img.shields.io/badge/Discord-Devorein2924-blue?style=flat&logo=discord"></a>
+</p>
 
 <h4 align="center">Uploaded Language Contribution</h4>
 
