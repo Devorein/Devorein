@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,6 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2 align="center">A little about me</h2>
+
+I'm currently a Frontend developer and part time Designer, trying my best to become a fullstack one and then taking it up a notch by mastering devops as well.
+
+- 🔭 I’m currently working on ... [Reinforz](https://devorein.github.io/reinforz/)
+- 🌱 I’m currently learning ... MongoDB, React, Typescript, Dart and Sass from top to bottom without any gaps
+- 👯 I’m looking to collaborate on ... Any ambitious MERN/G/T Project
+- 💬 Ask me about ...Web Development, Fitness, UFC
+- ⚡ Fun fact: ...My actual name is Safwan Shaheer, but I like the name Devon Reid, you can call be whichver one you want.
 
 <p><em>A bachelor student at <a href="https://www.bracu.ac.bd/">BRAC University</a>, majoring in Computer Science and Engineering.</br>
 </em></p>
@@ -57,7 +67,8 @@ const aboutMe = {
       apiTesting: ["POSTMan"],
       CI_CD: ["Github Actions"],
       WebHosting: ["Heroku", "Github Pages", "Netlify"],
-      editors: ["VSCode"]
+      editors: ["VSCode"],
+      design: ["Figma", "Adobe Illustrator"] 
    }
    currentOccupation: ["First year student", "Contributing to Open source", "Learning new technologies", "Solidifying existing knowledge"],
 };
@@ -91,7 +102,7 @@ const aboutMe = {
   <img src="https://www.codewars.com/users/Devorein/badges/large" alt="Devon Reid's Codewars badge" style="display: block;">
 </div>
 
-<h3> Connect with Me at </h3>
+<h3 align="center"> Connect with Me at </h3>
 
 <p align="center">
 <a href="mailto:devorein00@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-devorein00@gmail.com-blue?style=flat&logo=gmail"></a>
