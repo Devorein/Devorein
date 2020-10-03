@@ -36,10 +36,12 @@ Here are some ideas to get you started:
   
   <a href="https://www.youtube.com/channel/UCVRH1lqDD2m9W8H3KmcY0ow">
     <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Devon Reid'sYouTube Channel" height="30" width="30">
-  </a>
-  
-  <img src="https://www.codewars.com/users/Devorein/badges/large" alt="Devon Reid's Codewars badge" style="display: block;">
+  </a>  
 </p>
+
+<div>
+  <img src="https://www.codewars.com/users/Devorein/badges/large" alt="Devon Reid's Codewars badge" style="display: block;">
+</div>
 
 <h4 align="center">Uploaded Language Contribution</h4>
 
