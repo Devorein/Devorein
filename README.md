@@ -17,16 +17,16 @@ Here are some ideas to get you started:
 
 <h2 align="center">A little about me</h2>
 
-I'm currently a Frontend developer and part time Designer, trying my best to become a fullstack one and then taking it up a notch by mastering devops as well.
+<p><em>A bachelor student at <a href="https://www.bracu.ac.bd/">BRAC University</a>, majoring in Computer Science and Engineering.</br>
+</em></p>
+
+As far as my credentials I'm currently a Frontend developer and part time Designer, trying my best to become a fullstack one and then taking it up a notch by mastering devops as well.
 
 - 🔭 I’m currently working on ... [Reinforz](https://devorein.github.io/reinforz/)
 - 🌱 I’m currently learning ... MongoDB, React, Typescript, Dart and Sass from top to bottom without any gaps
 - 👯 I’m looking to collaborate on ... Any ambitious MERN/G/T Project
-- 💬 Ask me about ...Web Development, Fitness, UFC
-- ⚡ Fun fact: ...My actual name is Safwan Shaheer, but I like the name Devon Reid, you can call be whichver one you want.
-
-<p><em>A bachelor student at <a href="https://www.bracu.ac.bd/">BRAC University</a>, majoring in Computer Science and Engineering.</br>
-</em></p>
+- 💬 Ask me about ...Web Development, Fitness, UFC, Solo levelling 
+- ⚡ Fun fact: ...My actual name is Safwan Shaheer, but I like the name Devon Reid, you can call be whichever one you want.
 
 <h2 align="center">Here's the detail of my current knowledge</h2>
 
