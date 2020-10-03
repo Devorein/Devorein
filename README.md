@@ -37,13 +37,13 @@ Here are some ideas to get you started:
   <a href="https://www.youtube.com/channel/UCVRH1lqDD2m9W8H3KmcY0ow">
     <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Devon Reid'sYouTube Channel" height="30" width="30">
   </a>
+  
+  <img src="https://www.codewars.com/users/Devorein/badges/large" alt="Devon Reid's Codewars badge" style="display: block">
 </p>
-
-<img src="https://www.codewars.com/users/Devorein/badges/large" alt="Devon Reid's Codewars badge">
 
 <h4 align="center">Language Upload Contribution</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevoreinO&langs_count=10&theme=tokyonight&layout=compact" alt="Devorein :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devorein&langs_count=10&theme=tokyonight&layout=compact" alt="Devorein :: Top Langs" /></p>
 
 <h4 align="center">Profile stats</h4>
 
