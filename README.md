@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 </em></p>
 
 <h2 align="center">Here's the detail of my current knowledge</h2>
+
 ```javascript
 const aboutMe = {
    pronouns: "he"|"him",
