@@ -20,40 +20,40 @@ Here are some ideas to get you started:
 
 ```javascript
 const aboutMe = {
-   languages: [Javascript, Typescript, Sass, Python, Dart],
+   languages: ["Javascript", "Typescript", "Sass", "Python", "Dart"],
    libraries: {
       frontEnd: {
-        js: [React, webpack, babel, eslint],
-        react: [Material UI, React Router, Redux, Styled Components, Formik],
-        css: [PostCSS, react[3]],
-        graphql: [Apollo Graphql]
+        js: ["React", "webpack", "babel", "eslint"],
+        react: ["Material UI", "React Router", "Redux", "Styled Components", "Formik"],
+        css: ["PostCSS", react[3]],
+        graphql: ["Apollo Graphql"]
       },
       backEnd: {
-        ORM: [Mongoose],
-        cmd: [yargs]
+        ORM: ["Mongoose"],
+        cmd: ["yargs"]
       },
-      testing: [Puppeteer, Jest]
+      testing: ["Puppeteer", "Jest"]
    },
    
    frameworks: {
       backEnd: {
-        server: [Express].
+        server: ["Express"].
       }
-   }
+   },
    
    technologies: {
       backEnd: {
-          API: [REST, Graphql]
-         js: ["Node"],
+          API: ["REST", "Graphql"],
+         js: ["Node"]
       },
       databases: ["MongoDB"]
    },
    
    tools: {
-      versionControl: [Git],
-      apiTesting: [POSTMan],
-      CI_CD: [Github Actions],
-      WebHosting: [Heroku, Github Pages, Netlify]
+      versionControl: ["Git"],
+      apiTesting: ["POSTMan"],
+      CI_CD: ["Github Actions"],
+      WebHosting: ["Heroku", "Github Pages", "Netlify"]
    }
    
    currentOccupation: ["First year student", "Contributing to Open source", "Learning new technologies", "Solidifying existing knowledge"],
@@ -84,7 +84,7 @@ const aboutMe = {
   </a>  
 </p>
 
-<div style="display: flex; justify-content: center;">
+<div align="center">
   <img src="https://www.codewars.com/users/Devorein/badges/large" alt="Devon Reid's Codewars badge" style="display: block;">
 </div>
 
