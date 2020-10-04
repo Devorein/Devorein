@@ -39,7 +39,6 @@ const aboutMe = {
         js: ["React", "webpack", "babel", "eslint"],
         react: ["Material UI", "React Router", "Redux", "Styled Components", "Formik", "Storybook"],
         css: ["PostCSS", react[3]],
-        graphql: ["Apollo Graphql"]
       },
       backEnd: {
         ORM: ["Mongoose"],
@@ -51,6 +50,10 @@ const aboutMe = {
    frameworks: {
       backEnd: {
         server: ["Express"].
+        graphql: ["Apollo Server"]
+      },
+      frontEnd:{
+         graphql: ["Apollo Client"]
       }
    },
    
