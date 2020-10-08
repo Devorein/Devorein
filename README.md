@@ -7,7 +7,7 @@
 
 As far as my credentials I'm currently a Frontend developer and part time Designer, trying my best to become a fullstack one and then taking it up a notch by mastering devops as well.
 
-- 🔭 I’m currently working on ... [Reinforz](https://devorein.github.io/reinforz/)
+- 🔭 I’m currently working on ... [Reinforz](https://devorein.github.io/reinforz/) and Notion API
 - 🌱 I’m currently learning ... MongoDB, React, Typescript, Dart and Sass from top to bottom without any gaps
 - 👯 I’m looking to collaborate on ... Any ambitious MERN/G/T Project
 - 💬 Ask me about ...Web Development, Fitness, UFC, Solo levelling 
@@ -66,30 +66,32 @@ const aboutMe = {
 
 <p align="center">
   <a href="https://stackoverflow.com/users/9745104/devorein?tab=profile">
-    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Devon Reid's Stack Overflow Profile" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Devorein's Stack Overflow Profile" height="30" width="30">
   </a>
   
   <a href="https://www.codewars.com/users/Devorein">
-    <img src="https://raw.githubusercontent.com/DiemenDesign/LibreICONS/37005f15f43d29af91a9132bc30c6a44f57935bc/svg/libre-brand-codewars.svg" alt="Devon Reid's Codewars Profile" height="30" width="30">
+    <img src="https://raw.githubusercontent.com/DiemenDesign/LibreICONS/37005f15f43d29af91a9132bc30c6a44f57935bc/svg/libre-brand-codewars.svg" alt="Devorein's Codewars Profile" height="30" width="30">
   </a>
 
   <a href="https://dev.to/devorein" style="display: inline;">
-    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Devon Reid's DEV Profile" height="30" width="30">
+    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Devorein's DEV Profile" height="30" width="30">
   </a>
 
   <a href="https://stackshare.io/devorein">
-    <img src="https://cdn.worldvectorlogo.com/logos/stackshare.svg" alt="Devon Reid's StackShare Profile" height="30" width="30">
+    <img src="https://cdn.worldvectorlogo.com/logos/stackshare.svg" alt="Devorein's StackShare Profile" height="30" width="30">
   </a>
 
   <a href="https://www.youtube.com/channel/UCVRH1lqDD2m9W8H3KmcY0ow">
-    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Devon Reid'sYouTube Channel" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Devorein'sYouTube Channel" height="30" width="30">
   </a>  
 </p>
 
 <div align="center">
-  <img src="https://www.codewars.com/users/Devorein/badges/large" alt="Devon Reid's Codewars badge" style="display: block;">
+  <img src="https://www.codewars.com/users/Devorein/badges/large" alt="Devorein's Codewars badge">
 </div>
-
+<div align="center">
+   <img src="https://stackoverflow.com/users/flair/9745104.png?theme=dark" alt="Devorein's Stackoverflow Badge"/>
+</div>
 <h3 align="center"> Connect with Me at </h3>
 
 <p align="center">
@@ -97,7 +99,7 @@ const aboutMe = {
 <a href="https://discord.com/channels/@me"><img alt="Email" src="https://img.shields.io/badge/Discord-Devorein2924-blue?style=flat&logo=discord"></a>
 </p>
 
-<h4 align="center">Uploaded Language Contribution</h4>
+<h4 align="center">Code Contribution</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devorein&langs_count=10&theme=tokyonight&layout=compact" alt="Devorein :: Top Langs" /></p>
 
