@@ -13,7 +13,7 @@ As far as my credentials I'm currently a Frontend developer and part time Design
 - 💬 Ask me about ...Web Development, Fitness, UFC, Solo levelling 
 - ⚡ Fun fact: ...My actual name is Safwan Shaheer, but I like the name Devon Reid, you can call be whichever one you want.
 
-<h2 align="center">Here's the detail of my current knowledge</h2>
+<h2 align="center">Detail of my current knowledge</h2>
 
 ```javascript
 const aboutMe = {
@@ -97,9 +97,10 @@ const aboutMe = {
 <p align="center">
 <a href="mailto:devorein00@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-devorein00@gmail.com-blue?style=flat&logo=gmail"></a>
 <a href="https://discord.com/channels/@me"><img alt="Email" src="https://img.shields.io/badge/Discord-Devorein2924-blue?style=flat&logo=discord"></a>
+<a href="https://www.reddit.com/user/dev0rein"><img alt="Email" src="https://img.shields.io/badge/Reddit-dev0rein-orange?style=flat&logo=reddit"></a>
 </p>
 
-<h4 align="center">Code Contribution</h4>
+<h4 align="center">Language Contribution</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devorein&langs_count=10&theme=tokyonight&layout=compact" alt="Devorein :: Top Langs" /></p>
 
