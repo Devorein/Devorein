@@ -95,7 +95,7 @@ const aboutMe = {
 <h3 align="center"> Connect with Me at </h3>
 
 <p align="center">
-<a href="mailto:devorein00@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-devorein00@gmail.com-blue?style=flat&logo=gmail"></a>
+<a href="mailto:devorein00@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-devorein00@gmail.com-red?style=flat&logo=gmail"></a>
 <a href="https://discord.com/channels/@me"><img alt="Email" src="https://img.shields.io/badge/Discord-Devorein2924-blue?style=flat&logo=discord"></a>
 <a href="https://www.reddit.com/user/dev0rein"><img alt="Email" src="https://img.shields.io/badge/Reddit-dev0rein-orange?style=flat&logo=reddit"></a>
 </p>
