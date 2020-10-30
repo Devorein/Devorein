@@ -2,7 +2,7 @@
 
 <h2 align="center">A little about me</h2>
 
-<p><em>A bachelor student at <a href="https://www.bracu.ac.bd/">BRAC University</a>, majoring in Computer Science and Engineering.</br>
+<p><em>A first year bachelor student at <a href="https://www.bracu.ac.bd/">BRAC University</a>, majoring in Computer Science and Engineering.</br>
 </em></p>
 
 As far as my credentials I'm currently a Frontend developer and part time Designer, trying my best to become a fullstack one and then taking it up a notch by mastering devops as well.
@@ -21,9 +21,11 @@ const aboutMe = {
    languages: ["Javascript", "Typescript", "Sass", "Python", "Dart"],
    libraries: {
       frontEnd: {
-        js: ["React", "webpack", "babel", "eslint"],
+        js: ["React", "babel", "eslint"],
         react: ["Material UI", "React Router", "Redux", "Styled Components", "Formik", "Storybook", "RTG"],
         css: ["PostCSS", react[3]],
+        http: ["Axios"],
+        bundler:["rollup", "webpack"]
       },
       backEnd: {
         ORM: ["Mongoose"],
