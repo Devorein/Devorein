@@ -114,9 +114,9 @@ const aboutMe = {
 <a href="https://twitter.com/devorein"><img alt="Email" src="https://img.shields.io/badge/Twitter-devorein-blue?style=flat&logo=twitter"></a>
 </p>
 
-<h4 align="center">Language Contribution</h4>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devorein&langs_count=10&theme=tokyonight&layout=compact" alt="Devorein :: Top Langs" /></p>
+<h4 align="center">Wakatime week stats</h4>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=devorein" alt="Devorein :: Wakatime Stats" /></p>
 
-Profile stats              |  Wakatime week stats
+Profile stats              |  Language Contribution
 :-------------------------:|:-------------------------:
-![Devorein :: Profile Stats](https://github-readme-stats.vercel.app/api?username=Devorein&show_icons=true&theme=dark) | ![Devorein :: Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=devorein)
+![Devorein :: Profile Stats](https://github-readme-stats.vercel.app/api?username=Devorein&show_icons=true&theme=dark) | ![Devorein :: Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devorein&langs_count=10&theme=tokyonight&layout=compact)
