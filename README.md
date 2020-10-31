@@ -43,13 +43,16 @@ const aboutMe = {
          graphql: ["Apollo Client"]
       }
    },
-   
+   databases: {
+      "No-SQL": ["MongoDB"],
+      "SQL": ["PostGreSQL"],
+      "In-Memory": ["Redis"]
+   }
    technologies: {
       backEnd: {
-          API: ["REST", "Graphql"],
-         js: ["Node"]
+         API: ["REST", "Graphql"],
+         runtime: ["Node"]
       },
-      databases: ["MongoDB"]
    },
    // 🛠️
    tools: {
@@ -78,13 +81,21 @@ const aboutMe = {
   <a href="https://dev.to/devorein" style="display: inline;">
     <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Devorein's DEV Profile" height="30" width="30">
   </a>
-
+   
+   <a href="https://devorein.hashnode.dev/">
+    <img src="https://cdn.worldvectorlogo.com/logos/hashnode.svg" alt="Devorein's Hashnode Profile" height="30" width="30">
+  </a>
+  
+  <a href="https://medium.com/@devorein">
+    <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Devorein's Medium Profile" height="30" width="30">
+  </a>
+  
   <a href="https://stackshare.io/devorein">
     <img src="https://cdn.worldvectorlogo.com/logos/stackshare.svg" alt="Devorein's StackShare Profile" height="30" width="30">
   </a>
-
+   
   <a href="https://www.youtube.com/channel/UCVRH1lqDD2m9W8H3KmcY0ow">
-    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Devorein'sYouTube Channel" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Devorein's YouTube Channel" height="30" width="30">
   </a>  
 </p>
 
