@@ -116,14 +116,11 @@ const aboutMe = {
 
 <h4 align="center">Language Contribution</h4>
 
-<div>
-   <p align="left">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=devorein" alt="Devorein :: Wakatime Stats" /></p>
-   </p>
-   <p align="right">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devorein&langs_count=10&theme=tokyonight&layout=compact" alt="Devorein :: Top Langs" />
-   </p>
-</div>
+<p align="center">
+   <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=devorein" alt="Devorein :: Wakatime Stats" /></p>
+   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devorein&langs_count=10&theme=tokyonight&layout=compact" alt="Devorein :: Top Langs" />
+
+</p>
 
 <h4 align="center">Profile stats</h4>
 
