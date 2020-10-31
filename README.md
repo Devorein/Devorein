@@ -115,10 +115,8 @@ const aboutMe = {
 </p>
 
 <h4 align="center">Language Contribution</h4>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devorein&langs_count=10&theme=tokyonight&layout=compact" alt="Devorein :: Top Langs" />
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devorein&langs_count=10&theme=tokyonight&layout=compact" alt="Devorein :: Top Langs" /></p>
 
 Profile stats              |  Wakatime week stats
 :-------------------------:|:-------------------------:
-
-<img src="https://github-readme-stats.vercel.app/api?username=Devorein&show_icons=true&theme=dark" alt="Devorein :: Profile Stats" />|
-<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=devorein" alt="Devorein :: Wakatime Stats" />
+![Devorein :: Profile Stats](https://github-readme-stats.vercel.app/api?username=Devorein&show_icons=true&theme=dark) | ![Devorein :: Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=devorein)
