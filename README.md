@@ -93,7 +93,12 @@ const aboutMe = {
   <a href="https://stackshare.io/devorein">
     <img src="https://cdn.worldvectorlogo.com/logos/stackshare.svg" alt="Devorein's StackShare Profile" height="30" width="30">
   </a>
-   
+  <a href="https://codesandbox.io/u/Devorein">
+    <img src="https://camo.githubusercontent.com/237fa1e304ff8d669572cf96784308c87975d149/687474703a2f2f63646e2e656d6265642e6c792f70726f7669646572732f6c6f676f732f636f646573616e64626f782e706e67" alt="Devorein's CodeSandbox Channel" height="30" width="30">
+  </a> 
+   <a href="https://codepen.io/devorein">
+    <img src="https://www.vectorlogo.zone/logos/codepen/codepen-tile.svg" alt="Devorein's Codepen Channel" height="30" width="30">
+  </a>
   <a href="https://www.youtube.com/channel/UCVRH1lqDD2m9W8H3KmcY0ow">
     <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Devorein's YouTube Channel" height="30" width="30">
   </a>  
@@ -119,4 +124,4 @@ const aboutMe = {
 
 Profile stats              |  Language Contribution
 :-------------------------:|:-------------------------:
-![Devorein :: Profile Stats](https://github-readme-stats.vercel.app/api?username=Devorein&show_icons=true&theme=dark) | ![Devorein :: Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devorein&langs_count=10&theme=tokyonight&layout=compact?hide=html)
+![Devorein :: Profile Stats](https://github-readme-stats.vercel.app/api?username=Devorein&show_icons=true&theme=dark) | ![Devorein :: Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devorein&langs_count=10&theme=tokyonight&layout=compact&hide=html)
