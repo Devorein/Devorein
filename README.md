@@ -83,7 +83,7 @@ const aboutMe = {
   </a>
    
    <a href="https://devorein.hashnode.dev/">
-    <img src="https://cdn.worldvectorlogo.com/logos/hashnode.svg" alt="Devorein's Hashnode Profile" height="30" width="30">
+    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1592752137870/scHk9tTaA.png?auto=compress" alt="Devorein's Hashnode Profile" height="30" width="30">
   </a>
   
   <a href="https://medium.com/@devorein">
