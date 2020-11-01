@@ -79,7 +79,7 @@ const aboutMe = {
   </a>
 
   <a href="https://dev.to/devorein" style="display: inline;">
-    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Devorein's DEV Profile" height="30" width="30">
+    <img src="https://lh3.googleusercontent.com/mmiuKzIq5YPFyjrfFsiNqeGuJY-Rp6wVvE8kus6vuunOnqInN16GTCCUX1937vEbKw" alt="Devorein's DEV Profile" height="30" width="30">
   </a>
    
    <a href="https://devorein.hashnode.dev/">
