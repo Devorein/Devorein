@@ -75,7 +75,7 @@ const aboutMe = {
   </a>
   
   <a href="https://www.codewars.com/users/Devorein">
-    <img src="https://raw.githubusercontent.com/DiemenDesign/LibreICONS/37005f15f43d29af91a9132bc30c6a44f57935bc/svg/libre-brand-codewars.svg" alt="Devorein's Codewars Profile" height="30" width="30">
+    <img src="https://camo.githubusercontent.com/c6341567c3ede1b4ee0935509a378c482153026f/687474703a2f2f7777772e736f66746c61622e6e7475612e67722f7e6e69636b69652f696d616765732f6c6f676f2f636f6465776172732e706e67" alt="Devorein's Codewars Profile" height="30" width="30">
   </a>
 
   <a href="https://dev.to/devorein" style="display: inline;">
