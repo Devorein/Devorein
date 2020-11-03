@@ -118,12 +118,16 @@ const aboutMe = {
 <a href="https://www.reddit.com/user/dev0rein"><img alt="Email" src="https://img.shields.io/badge/Reddit-dev0rein-orange?style=flat&logo=reddit"></a>
 <a href="https://twitter.com/devorein"><img alt="Email" src="https://img.shields.io/badge/Twitter-devorein-blue?style=flat&logo=twitter"></a>
 </p>
-  <summary>:zap: Recent Github Activities</summary>
- <!--START_SECTION:activity-->
- <!--END_SECTION:activity-->
+  
 <h4 align="center">Wakatime week stats</h4>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=devorein" alt="Devorein :: Wakatime Stats" /></p>
 
 Profile stats              |  Language Contribution
 :-------------------------:|:-------------------------:
 ![Devorein :: Profile Stats](https://github-readme-stats.vercel.app/api?username=Devorein&show_icons=true&theme=dark) | ![Devorein :: Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devorein&langs_count=10&theme=tokyonight&layout=compact&hide=html)
+
+<summary>:zap: Recent Github Activities</summary>
+
+ <!--START_SECTION:activity-->
+
+ <!--END_SECTION:activity-->
