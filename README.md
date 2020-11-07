@@ -128,4 +128,5 @@ Profile stats              |  Language Contribution
 
 <summary>:zap: Recent Github Activities</summary>
 
-<!--START_SECTION:activity--><!--END_SECTION:activity-->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
