@@ -129,9 +129,4 @@ Profile stats              |  Language Contribution
 <summary>:zap: Recent Github Activities</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4](https://github.com/Nishan-Open-Source/Nishan/issues/4) in [Nishan-Open-Source/Nishan](https://github.com/Nishan-Open-Source/Nishan)
-2. 🗣 Commented on [#4](https://github.com/Nishan-Open-Source/Nishan/issues/4) in [Nishan-Open-Source/Nishan](https://github.com/Nishan-Open-Source/Nishan)
-3. 🗣 Commented on [#3](https://github.com/Nishan-Open-Source/Nishan/issues/3) in [Nishan-Open-Source/Nishan](https://github.com/Nishan-Open-Source/Nishan)
-4. ❗️ Opened issue [#7](https://github.com/b1rkenspanner/server_hacking/issues/7) in [b1rkenspanner/server_hacking](https://github.com/b1rkenspanner/server_hacking)
-5. 💪 Opened PR [#1](https://github.com/b1rkenspanner/Json_Server_Hacking/pull/1) in [b1rkenspanner/Json_Server_Hacking](https://github.com/b1rkenspanner/Json_Server_Hacking)
-<!--END_SECTION:activity-->
+
