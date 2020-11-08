@@ -129,10 +129,10 @@ Profile stats              |  Language Contribution
 <summary>:zap: Recent Github Activities</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/b1rkenspanner/Tic-Tac-Toe-with-AI/issues/2) in [b1rkenspanner/Tic-Tac-Toe-with-AI](https://github.com/b1rkenspanner/Tic-Tac-Toe-with-AI)
-2. ❗️ Opened issue [#1](https://github.com/b1rkenspanner/Tic-Tac-Toe-with-AI/issues/1) in [b1rkenspanner/Tic-Tac-Toe-with-AI](https://github.com/b1rkenspanner/Tic-Tac-Toe-with-AI)
-3. ❗️ Closed issue [#4](https://github.com/Nishan-Open-Source/Nishan/issues/4) in [Nishan-Open-Source/Nishan](https://github.com/Nishan-Open-Source/Nishan)
-4. 🗣 Commented on [#4](https://github.com/Nishan-Open-Source/Nishan/issues/4) in [Nishan-Open-Source/Nishan](https://github.com/Nishan-Open-Source/Nishan)
-5. 🗣 Commented on [#3](https://github.com/Nishan-Open-Source/Nishan/issues/3) in [Nishan-Open-Source/Nishan](https://github.com/Nishan-Open-Source/Nishan)
+1. 💪 Opened PR [#4](https://github.com/b1rkenspanner/Tic-Tac-Toe-with-AI/pull/4) in [b1rkenspanner/Tic-Tac-Toe-with-AI](https://github.com/b1rkenspanner/Tic-Tac-Toe-with-AI)
+2. ❗️ Opened issue [#3](https://github.com/b1rkenspanner/Tic-Tac-Toe-with-AI/issues/3) in [b1rkenspanner/Tic-Tac-Toe-with-AI](https://github.com/b1rkenspanner/Tic-Tac-Toe-with-AI)
+3. ❗️ Opened issue [#2](https://github.com/b1rkenspanner/Tic-Tac-Toe-with-AI/issues/2) in [b1rkenspanner/Tic-Tac-Toe-with-AI](https://github.com/b1rkenspanner/Tic-Tac-Toe-with-AI)
+4. ❗️ Opened issue [#1](https://github.com/b1rkenspanner/Tic-Tac-Toe-with-AI/issues/1) in [b1rkenspanner/Tic-Tac-Toe-with-AI](https://github.com/b1rkenspanner/Tic-Tac-Toe-with-AI)
+5. ❗️ Closed issue [#4](https://github.com/Nishan-Open-Source/Nishan/issues/4) in [Nishan-Open-Source/Nishan](https://github.com/Nishan-Open-Source/Nishan)
 <!--END_SECTION:activity-->
 
