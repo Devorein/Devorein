@@ -129,10 +129,10 @@ Profile stats              |  Language Contribution
 <summary>:zap: Recent Github Activities</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/b1rkenspanner/Tic-Tac-Toe-with-AI/issues/3) in [b1rkenspanner/Tic-Tac-Toe-with-AI](https://github.com/b1rkenspanner/Tic-Tac-Toe-with-AI)
-2. 🗣 Commented on [#2](https://github.com/b1rkenspanner/Tic-Tac-Toe-with-AI/issues/2) in [b1rkenspanner/Tic-Tac-Toe-with-AI](https://github.com/b1rkenspanner/Tic-Tac-Toe-with-AI)
-3. 💪 Opened PR [#4](https://github.com/b1rkenspanner/Tic-Tac-Toe-with-AI/pull/4) in [b1rkenspanner/Tic-Tac-Toe-with-AI](https://github.com/b1rkenspanner/Tic-Tac-Toe-with-AI)
-4. ❗️ Opened issue [#3](https://github.com/b1rkenspanner/Tic-Tac-Toe-with-AI/issues/3) in [b1rkenspanner/Tic-Tac-Toe-with-AI](https://github.com/b1rkenspanner/Tic-Tac-Toe-with-AI)
-5. ❗️ Opened issue [#2](https://github.com/b1rkenspanner/Tic-Tac-Toe-with-AI/issues/2) in [b1rkenspanner/Tic-Tac-Toe-with-AI](https://github.com/b1rkenspanner/Tic-Tac-Toe-with-AI)
+1. 💪 Opened PR [#5](https://github.com/FlukeHermit/Tic-Tac-Toe-with-AI/pull/5) in [FlukeHermit/Tic-Tac-Toe-with-AI](https://github.com/FlukeHermit/Tic-Tac-Toe-with-AI)
+2. ❗️ Closed issue [#3](https://github.com/b1rkenspanner/Tic-Tac-Toe-with-AI/issues/3) in [b1rkenspanner/Tic-Tac-Toe-with-AI](https://github.com/b1rkenspanner/Tic-Tac-Toe-with-AI)
+3. 🗣 Commented on [#2](https://github.com/b1rkenspanner/Tic-Tac-Toe-with-AI/issues/2) in [b1rkenspanner/Tic-Tac-Toe-with-AI](https://github.com/b1rkenspanner/Tic-Tac-Toe-with-AI)
+4. 💪 Opened PR [#4](https://github.com/b1rkenspanner/Tic-Tac-Toe-with-AI/pull/4) in [b1rkenspanner/Tic-Tac-Toe-with-AI](https://github.com/b1rkenspanner/Tic-Tac-Toe-with-AI)
+5. ❗️ Opened issue [#3](https://github.com/b1rkenspanner/Tic-Tac-Toe-with-AI/issues/3) in [b1rkenspanner/Tic-Tac-Toe-with-AI](https://github.com/b1rkenspanner/Tic-Tac-Toe-with-AI)
 <!--END_SECTION:activity-->
 
