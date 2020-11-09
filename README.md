@@ -11,7 +11,7 @@ As far as my credentials I'm currently a Frontend developer and part time Design
 - 🌱 I’m currently learning ... MongoDB, React, Typescript, Dart and Sass from top to bottom without any gaps
 - 👯 I’m looking to collaborate on ... Any ambitious MERN/G/T Project
 - 💬 Ask me about ...Web Development, Fitness, UFC, Solo levelling 
-- ⚡ Fun fact: ...I go by the psuedonym Devon Reid on most of my other profiles.
+- ⚡ Fun fact: ... I'm a proud 🟢Aro⚫Ace🟣;)
 
 <h2 align="center">Detail of my current knowledge</h2>
 
