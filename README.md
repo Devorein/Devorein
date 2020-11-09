@@ -1,8 +1,8 @@
-### Hi there, Devon here 👋
+### Hi there, Safwan here 👋
 
 <h2 align="center">A little about me</h2>
 
-<p><em>A first year bachelor student at <a href="https://www.bracu.ac.bd/">BRAC University</a>, majoring in Computer Science and Engineering.</br>
+<p><em>A first year undergrad student at <a href="https://www.bracu.ac.bd/">BRAC University</a>, majoring in Computer Science and Engineering.</br>
 </em></p>
 
 As far as my credentials I'm currently a Frontend developer and part time Designer, trying my best to become a fullstack one and then taking it up a notch by mastering devops as well.
@@ -11,21 +11,31 @@ As far as my credentials I'm currently a Frontend developer and part time Design
 - 🌱 I’m currently learning ... MongoDB, React, Typescript, Dart and Sass from top to bottom without any gaps
 - 👯 I’m looking to collaborate on ... Any ambitious MERN/G/T Project
 - 💬 Ask me about ...Web Development, Fitness, UFC, Solo levelling 
-- ⚡ Fun fact: ... I'm a proud 🟢Aro⚫Ace🟣;)
+- ⚡ Fun fact: ... I'm a proud 🟢Aro⚫Ace🟣 :D
 
 <h2 align="center">Detail of my current knowledge</h2>
 
 ```javascript
 const aboutMe = {
    pronouns: "he"|"him",
-   languages: ["Javascript", "Typescript", "Sass", "Python", "Dart"],
+   languages: ["Typescript", "Sass", "Python", "Dart"],
    libraries: {
       frontEnd: {
-        js: ["React", "babel", "eslint"],
-        react: ["Material UI", "React Router", "Redux", "Styled Components", "Formik", "Storybook", "RTG"],
+        ui: ["React"],
+        transpiler: ["babel"],
+        linter: ["eslint"],
+        react: {
+           animation: ["RTG"],
+           design_systems: ["Material UI"],
+           state_management: ["Redux"],
+           routing: ["React Router"],
+           css: ["Styled Components"],
+           prototyping: ["Storybook"],
+           forms: ["Formik"]
+        },
         css: ["PostCSS", react[3]],
         http: ["Axios"],
-        bundler:["rollup", "webpack"]
+        bundler:["rollup", "webpack", "parcel"],
       },
       backEnd: {
         ORM: ["Mongoose"],
@@ -56,6 +66,7 @@ const aboutMe = {
    },
    // 🛠️
    tools: {
+      CodeHosting: ["Github"],
       versionControl: ["Git"],
       apiTesting: ["POSTMan"],
       CI_CD: ["Github Actions"],
