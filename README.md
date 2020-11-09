@@ -128,6 +128,7 @@ const aboutMe = {
 <a href="https://discord.com/channels/@me"><img alt="Email" src="https://img.shields.io/badge/Discord-Devorein2924-blue?style=flat&logo=discord"></a>
 <a href="https://www.reddit.com/user/dev0rein"><img alt="Email" src="https://img.shields.io/badge/Reddit-dev0rein-orange?style=flat&logo=reddit"></a>
 <a href="https://twitter.com/devorein"><img alt="Email" src="https://img.shields.io/badge/Twitter-devorein-blue?style=flat&logo=twitter"></a>
+<a href="https://www.linkedin.com/in/safwan-shaheer-4b759a1bb/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-devorein-blue?style=flat&logo=linkedin"></a>
 </p>
   
 <h4 align="center">Wakatime week stats</h4>
