@@ -139,11 +139,6 @@ Profile stats              |  Language Contribution
 ![Devorein :: Profile Stats](https://github-readme-stats.vercel.app/api?username=Devorein&show_icons=true&theme=dark) | ![Devorein :: Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devorein&langs_count=10&theme=tokyonight&layout=compact&hide=html)
 
 <summary>:zap: Recent Github Activities</summary>
+
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/FlukeHermit/To-Do-List/pull/3) in [FlukeHermit/To-Do-List](https://github.com/FlukeHermit/To-Do-List)
-2. 💪 Opened PR [#2](https://github.com/FlukeHermit/To-Do-List/pull/2) in [FlukeHermit/To-Do-List](https://github.com/FlukeHermit/To-Do-List)
-3. 💪 Opened PR [#1](https://github.com/FlukeHermit/To-Do-List/pull/1) in [FlukeHermit/To-Do-List](https://github.com/FlukeHermit/To-Do-List)
-4. ❗️ Closed issue [#2](https://github.com/FlukeHermit/Tic-Tac-Toe-with-AI/issues/2) in [FlukeHermit/Tic-Tac-Toe-with-AI](https://github.com/FlukeHermit/Tic-Tac-Toe-with-AI)
-5. 🗣 Commented on [#2](https://github.com/FlukeHermit/Tic-Tac-Toe-with-AI/issues/2) in [FlukeHermit/Tic-Tac-Toe-with-AI](https://github.com/FlukeHermit/Tic-Tac-Toe-with-AI)
-<!--END_SECTION:activity-->
 
