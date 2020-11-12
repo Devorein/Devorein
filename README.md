@@ -138,6 +138,8 @@ Profile stats              |  Language Contribution
 :-------------------------:|:-------------------------:
 ![Devorein :: Profile Stats](https://github-readme-stats.vercel.app/api?username=Devorein&show_icons=true&theme=dark) | ![Devorein :: Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devorein&langs_count=10&theme=tokyonight&layout=compact&hide=html)
 
+<details>
+   
 <summary>:zap: Recent Github Activities</summary>
 
 <!--START_SECTION:activity-->
@@ -148,3 +150,4 @@ Profile stats              |  Language Contribution
 5. 🗣 Commented on [#2](https://github.com/FlukeHermit/Tic-Tac-Toe-with-AI/issues/2) in [FlukeHermit/Tic-Tac-Toe-with-AI](https://github.com/FlukeHermit/Tic-Tac-Toe-with-AI)
 <!--END_SECTION:activity-->
 
+</details>
