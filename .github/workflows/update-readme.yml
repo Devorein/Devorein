@@ -15,5 +15,8 @@ jobs:
       - uses: panosru/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_PAT: ${{ secrets.GH_PAT }}
         with:
+          GH_USERNAME: devorein
+          COMMIT_MSG: 'Updated Activity'
           MAX_LINES: 10
