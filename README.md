@@ -143,11 +143,11 @@ Profile stats              |  Language Contribution
 <summary>:zap: Recent Github Activities</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/FlukeHermit/To-Do-List/pull/3) in [FlukeHermit/To-Do-List](https://github.com/FlukeHermit/To-Do-List)
-2. 💪 Opened PR [#2](https://github.com/FlukeHermit/To-Do-List/pull/2) in [FlukeHermit/To-Do-List](https://github.com/FlukeHermit/To-Do-List)
-3. 💪 Opened PR [#1](https://github.com/FlukeHermit/To-Do-List/pull/1) in [FlukeHermit/To-Do-List](https://github.com/FlukeHermit/To-Do-List)
-4. ❗️ Closed issue [#2](https://github.com/FlukeHermit/Tic-Tac-Toe-with-AI/issues/2) in [FlukeHermit/Tic-Tac-Toe-with-AI](https://github.com/FlukeHermit/Tic-Tac-Toe-with-AI)
-5. 🗣 Commented on [#2](https://github.com/FlukeHermit/Tic-Tac-Toe-with-AI/issues/2) in [FlukeHermit/Tic-Tac-Toe-with-AI](https://github.com/FlukeHermit/Tic-Tac-Toe-with-AI)
+1. 🎉 Merged PR [#131](https://github.com/Devorein/mongql/pull/131) in [Devorein/mongql](https://github.com/Devorein/mongql)
+2. 🎉 Merged PR [#137](https://github.com/Devorein/mongql/pull/137) in [Devorein/mongql](https://github.com/Devorein/mongql)
+3. 💪 Opened PR [#3](https://github.com/FlukeHermit/To-Do-List/pull/3) in [FlukeHermit/To-Do-List](https://github.com/FlukeHermit/To-Do-List)
+4. 💪 Opened PR [#2](https://github.com/FlukeHermit/To-Do-List/pull/2) in [FlukeHermit/To-Do-List](https://github.com/FlukeHermit/To-Do-List)
+5. 💪 Opened PR [#1](https://github.com/FlukeHermit/To-Do-List/pull/1) in [FlukeHermit/To-Do-List](https://github.com/FlukeHermit/To-Do-List)
 <!--END_SECTION:activity-->
 
 </details>
