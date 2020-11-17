@@ -43,7 +43,6 @@ const aboutMe = {
       },
       testing: ["Puppeteer", "Jest"]
    },
-   
    frameworks: {
       backEnd: {
         server: ["Express"].
@@ -57,23 +56,25 @@ const aboutMe = {
       "No-SQL": ["MongoDB"],
       "SQL": ["PostGreSQL"],
       "In-Memory": ["Redis"]
-   }
+   },
    technologies: {
       backEnd: {
          API: ["REST", "Graphql"],
          runtime: ["Node"]
-      },
+      }
    },
-   // 🛠️
    tools: {
+      devops:{
+          paas: ["docker"],
+          CI_CD: ["Github Actions"],
+      },
       CodeHosting: ["Github"],
       versionControl: ["Git"],
       apiTesting: ["POSTMan"],
-      CI_CD: ["Github Actions"],
       WebHosting: ["Heroku", "Github Pages", "Netlify"],
       editors: ["VSCode"],
       design: ["Figma", "Adobe Illustrator"] 
-   }
+   },
    currentOccupation: ["First year student", "Contributing to Open source", "Learning new technologies", "Solidifying existing knowledge"],
 };
 ```
