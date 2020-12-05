@@ -144,11 +144,11 @@ Profile stats              |  Language Contribution
 <summary>:zap: Recent Github Activities</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/Nishan-Open-Source/Nishan/pull/9) in [Nishan-Open-Source/Nishan](https://github.com/Nishan-Open-Source/Nishan)
-2. 🎉 Merged PR [#7](https://github.com/Nishan-Open-Source/Nishan/pull/7) in [Nishan-Open-Source/Nishan](https://github.com/Nishan-Open-Source/Nishan)
-3. 🎉 Merged PR [#6](https://github.com/Nishan-Open-Source/Nishan/pull/6) in [Nishan-Open-Source/Nishan](https://github.com/Nishan-Open-Source/Nishan)
-4. 🎉 Merged PR [#5](https://github.com/Nishan-Open-Source/Nishan/pull/5) in [Nishan-Open-Source/Nishan](https://github.com/Nishan-Open-Source/Nishan)
-5. 💪 Opened PR [#2](https://github.com/FlukeHermit/To-Do-List/pull/2) in [FlukeHermit/To-Do-List](https://github.com/FlukeHermit/To-Do-List)
+1. 🎉 Merged PR [#8](https://github.com/Nishan-Open-Source/Nishan/pull/8) in [Nishan-Open-Source/Nishan](https://github.com/Nishan-Open-Source/Nishan)
+2. 🎉 Merged PR [#9](https://github.com/Nishan-Open-Source/Nishan/pull/9) in [Nishan-Open-Source/Nishan](https://github.com/Nishan-Open-Source/Nishan)
+3. 🎉 Merged PR [#7](https://github.com/Nishan-Open-Source/Nishan/pull/7) in [Nishan-Open-Source/Nishan](https://github.com/Nishan-Open-Source/Nishan)
+4. 🎉 Merged PR [#6](https://github.com/Nishan-Open-Source/Nishan/pull/6) in [Nishan-Open-Source/Nishan](https://github.com/Nishan-Open-Source/Nishan)
+5. 🎉 Merged PR [#5](https://github.com/Nishan-Open-Source/Nishan/pull/5) in [Nishan-Open-Source/Nishan](https://github.com/Nishan-Open-Source/Nishan)
 <!--END_SECTION:activity-->
 
 </details>
