@@ -144,10 +144,10 @@ Profile stats              |  Language Contribution
 <summary>:zap: Recent Github Activities</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/Nishan-Open-Source/Nishan/pull/6) in [Nishan-Open-Source/Nishan](https://github.com/Nishan-Open-Source/Nishan)
-2. 🎉 Merged PR [#5](https://github.com/Nishan-Open-Source/Nishan/pull/5) in [Nishan-Open-Source/Nishan](https://github.com/Nishan-Open-Source/Nishan)
-3. ❗️ Opened issue [#1](https://github.com/FlukeHermit/Smart-Calculator/issues/1) in [FlukeHermit/Smart-Calculator](https://github.com/FlukeHermit/Smart-Calculator)
-4. 🎉 Merged PR [#137](https://github.com/Devorein/mongql/pull/137) in [Devorein/mongql](https://github.com/Devorein/mongql)
+1. 🎉 Merged PR [#9](https://github.com/Nishan-Open-Source/Nishan/pull/9) in [Nishan-Open-Source/Nishan](https://github.com/Nishan-Open-Source/Nishan)
+2. 🎉 Merged PR [#7](https://github.com/Nishan-Open-Source/Nishan/pull/7) in [Nishan-Open-Source/Nishan](https://github.com/Nishan-Open-Source/Nishan)
+3. 🎉 Merged PR [#6](https://github.com/Nishan-Open-Source/Nishan/pull/6) in [Nishan-Open-Source/Nishan](https://github.com/Nishan-Open-Source/Nishan)
+4. 🎉 Merged PR [#5](https://github.com/Nishan-Open-Source/Nishan/pull/5) in [Nishan-Open-Source/Nishan](https://github.com/Nishan-Open-Source/Nishan)
 5. 💪 Opened PR [#2](https://github.com/FlukeHermit/To-Do-List/pull/2) in [FlukeHermit/To-Do-List](https://github.com/FlukeHermit/To-Do-List)
 <!--END_SECTION:activity-->
 
