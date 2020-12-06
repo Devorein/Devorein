@@ -7,18 +7,18 @@
 
 As far as my credentials I'm currently a Frontend developer and part time Designer, trying my best to become a fullstack one and then taking it up a notch by mastering devops as well.
 
-- 🔭 I’m currently working on ... [Reinforz](https://devorein.github.io/reinforz/) and [Notion API](https://github.com/Nishan-Open-Source/Nishan)
+- 🔭 I’m currently working on ... [Notion API](https://github.com/Nishan-Open-Source/Nishan) and [Reinforz](https://devorein.github.io/reinforz/)
 - 🌱 I’m currently learning ... Apollo ecosystem, React, Typescript, Postgresql and Redis from top to bottom without any gaps
 - 👯 I’m looking to collaborate on ... Any ambitious MERN/G/T Project
-- 💬 Ask me about ...Web Development, Fitness, UFC, Solo levelling 
-- ⚡ Fun fact: ... I'm a proud 🟢Aro⚫Ace🟣 :D
+- 💬 Ask me about ...Web Development, Fitness, UFC, Solo leveling 
+- ⚡ Fun fact: ... I'm a proud AroAce (Aromantic & Asexual) 🟢⚫🟣 :D
 
 <h2 align="center">Detail of my current knowledge</h2>
 
 ```javascript
 const aboutMe = {
    pronouns: "he"|"him",
-   languages: ["Typescript", "Sass", "Python", "Dart"],
+   languages: ["Typescript", "Python", "Sass", "Dart", "Java"],
    libraries: {
       frontEnd: {
         ui: ["React"],
@@ -26,20 +26,20 @@ const aboutMe = {
         linter: ["eslint"],
         react: {
            animation: ["RTG"],
-           design_systems: ["Material UI"],
+           design_systems: ["Material UI", "Ant Design", "Chakra UI"],
            state_management: ["Redux"],
            routing: ["React Router"],
-           css: ["Styled Components"],
+           cssinjs: ["Styled Components"],
            prototyping: ["Storybook"],
            forms: ["Formik"]
         },
-        css: ["PostCSS", react[3]],
+        css: ["PostCSS"],
         http: ["Axios"],
         bundler:["rollup", "webpack", "parcel"],
       },
       backEnd: {
-        ORM: ["Mongoose"],
-        cmd: ["yargs"]
+        ORM: ["Mongoose", "Sequelize"],
+        cmd: ["yargs"],
       },
       testing: ["Puppeteer", "Jest"]
    },
@@ -66,16 +66,16 @@ const aboutMe = {
    tools: {
       devops:{
           paas: ["docker"],
-          CI_CD: ["Github Actions"],
+          ci_cd': ["Github Actions"],
       },
-      CodeHosting: ["Github"],
-      versionControl: ["Git"],
-      apiTesting: ["POSTMan"],
-      WebHosting: ["Heroku", "Github Pages", "Netlify"],
+      code_hosting: ["Github"],
+      version_control: ["Git"],
+      api_testing: ["POSTMan"],
+      web_hosting: ["Heroku", "Github Pages", "Netlify"],
       editors: ["VSCode"],
       design: ["Figma", "Adobe Illustrator"] 
    },
-   currentOccupation: ["First year student", "Contributing to Open source", "Learning new technologies", "Solidifying existing knowledge"],
+   current_occupation: ["First year student", "Contributing to Open source", "Learning new technologies", "Solidifying existing knowledge"],
 };
 ```
 
