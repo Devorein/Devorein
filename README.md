@@ -8,7 +8,7 @@
 As far as my credentials I'm currently a Frontend developer and part time Designer, trying my best to become a fullstack one and then taking it up a notch by mastering devops as well.
 
 - 🔭 I’m currently working on ... [Reinforz](https://devorein.github.io/reinforz/) and [Notion API](https://github.com/Nishan-Open-Source/Nishan)
-- 🌱 I’m currently learning ... MongoDB, React, Typescript, Dart and Sass from top to bottom without any gaps
+- 🌱 I’m currently learning ... Apollo ecosystem, React, Typescript, Postgresql and Redis from top to bottom without any gaps
 - 👯 I’m looking to collaborate on ... Any ambitious MERN/G/T Project
 - 💬 Ask me about ...Web Development, Fitness, UFC, Solo levelling 
 - ⚡ Fun fact: ... I'm a proud 🟢Aro⚫Ace🟣 :D
