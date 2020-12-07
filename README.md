@@ -18,9 +18,9 @@ As far as my credentials I'm currently a Frontend developer and part time Design
 ```javascript
 const aboutMe = {
    pronouns: "he"|"him",
-   languages: ["Typescript", "Python", "Sass", "Dart", "Java"],
+   languages: ["Typescript", "Python", "Sass", "Dart", "Java", "C++"],
    libraries: {
-      frontEnd: {
+      frontend: {
         ui: ["React"],
         transpiler: ["babel"],
         linter: ["eslint"],
@@ -37,29 +37,29 @@ const aboutMe = {
         http: ["Axios"],
         bundler:["rollup", "webpack", "parcel"],
       },
-      backEnd: {
-        ORM: ["Mongoose", "Sequelize"],
+      backend: {
+        orm: ["Mongoose", "Sequelize"],
         cmd: ["yargs"],
       },
       testing: ["Puppeteer", "Jest"]
    },
    frameworks: {
-      backEnd: {
+      backend: {
         server: ["Express"].
         graphql: ["Apollo Server"]
       },
-      frontEnd:{
-         graphql: ["Apollo Client"]
+      frontend:{
+         graphql: ["Apollo Client", "urql"]
       }
    },
    databases: {
-      "No-SQL": ["MongoDB"],
-      "SQL": ["PostGreSQL"],
-      "In-Memory": ["Redis"]
+      no_sql: ["MongoDB"],
+      sql: ["PostGreSQL"],
+      in_memory: ["Redis"]
    },
    technologies: {
-      backEnd: {
-         API: ["REST", "Graphql"],
+      backend: {
+         api: ["REST", "Graphql"],
          runtime: ["Node"]
       }
    },
@@ -75,7 +75,7 @@ const aboutMe = {
       editors: ["VSCode"],
       design: ["Figma", "Adobe Illustrator"] 
    },
-   current_occupation: ["First year student", "Contributing to Open source", "Learning new technologies", "Solidifying existing knowledge"],
+   current_occupation: ["First year student", "Contributing to Open source", "Writing fullstack isomorphic JavaScript applications", "Learning new technologies", "Solidifying existing knowledge"],
 };
 ```
 
