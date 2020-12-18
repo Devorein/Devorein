@@ -3,7 +3,6 @@ name: Update README with recent activities
 on:
   schedule:
     - cron: '0 0-23/4 * * *'
-  workflow_dispatch:
 
 jobs:
   build:
@@ -24,7 +23,7 @@ jobs:
       - uses: "varunsridharan/action-hashnode-blog@main"
         with:
           USERNAME: 'devorein'
-          COUNT: 6
+          COUNT: 4
           STYLE: "blog-grid"
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}:  
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
