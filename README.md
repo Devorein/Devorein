@@ -140,7 +140,17 @@ Profile stats              |  Language Contribution
 ![Devorein :: Profile Stats](https://github-readme-stats.vercel.app/api?username=Devorein&show_icons=true&theme=dark) | ![Devorein :: Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devorein&langs_count=10&theme=tokyonight&layout=compact&hide=html)
 
 <details>
-   <summary>:zap: Recent Github Activities</summary>
+   
+<summary> My Latest Blog Posts 👇 </summary>
+   
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
+   
+</details>
+
+<details>
+
+<summary>:zap: Recent Github Activities</summary>
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#14](https://github.com/Nishan-Open-Source/Nishan/issues/14) in [Nishan-Open-Source/Nishan](https://github.com/Nishan-Open-Source/Nishan)
