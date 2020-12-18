@@ -19,11 +19,3 @@ jobs:
           GH_USERNAME: devorein
           COMMIT_MSG: 'Updated Activity'
           MAX_LINES: 10
-          
-      - uses: "varunsridharan/action-hashnode-blog@main"
-        with:
-          USERNAME: 'devorein'
-          COUNT: 4
-          STYLE: "blog-grid"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
