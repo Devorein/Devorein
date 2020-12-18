@@ -141,11 +141,14 @@ Profile stats              |  Language Contribution
 
 <details>
    <summary> My Latest Blog Posts 👇 </summary>
+   
    <!-- HASHNODE_BLOG:START -->
    <!-- HASHNODE_BLOG:END -->
-<details>
    
-<summary>:zap: Recent Github Activities</summary>
+</details>
+
+<details>
+   <summary>:zap: Recent Github Activities</summary>
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#14](https://github.com/Nishan-Open-Source/Nishan/issues/14) in [Nishan-Open-Source/Nishan](https://github.com/Nishan-Open-Source/Nishan)
