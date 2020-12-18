@@ -144,10 +144,10 @@ Profile stats              |  Language Contribution
 <summary>:zap: Recent Github Activities</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/Nishan-Open-Source/Nishan/issues/14) in [Nishan-Open-Source/Nishan](https://github.com/Nishan-Open-Source/Nishan)
-2. ❌ Closed PR [#14](https://github.com/Nishan-Open-Source/Nishan/pull/14) in [Nishan-Open-Source/Nishan](https://github.com/Nishan-Open-Source/Nishan)
+1. 🗣 Commented on [#15](https://github.com/Nishan-Open-Source/Nishan/issues/15) in [Nishan-Open-Source/Nishan](https://github.com/Nishan-Open-Source/Nishan)
+2. 🎉 Merged PR [#15](https://github.com/Nishan-Open-Source/Nishan/pull/15) in [Nishan-Open-Source/Nishan](https://github.com/Nishan-Open-Source/Nishan)
 3. 🗣 Commented on [#14](https://github.com/Nishan-Open-Source/Nishan/issues/14) in [Nishan-Open-Source/Nishan](https://github.com/Nishan-Open-Source/Nishan)
-4. 🗣 Commented on [#14](https://github.com/Nishan-Open-Source/Nishan/issues/14) in [Nishan-Open-Source/Nishan](https://github.com/Nishan-Open-Source/Nishan)
+4. ❌ Closed PR [#14](https://github.com/Nishan-Open-Source/Nishan/pull/14) in [Nishan-Open-Source/Nishan](https://github.com/Nishan-Open-Source/Nishan)
 5. 🗣 Commented on [#14](https://github.com/Nishan-Open-Source/Nishan/issues/14) in [Nishan-Open-Source/Nishan](https://github.com/Nishan-Open-Source/Nishan)
 <!--END_SECTION:activity-->
 
