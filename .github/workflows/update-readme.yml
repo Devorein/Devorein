@@ -20,6 +20,6 @@ jobs:
       - uses: "varunsridharan/action-hashnode-blog@main"
         with:
           USERNAME: 'devorein'
-          COUNT: 6
+          STYLE: blog
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
