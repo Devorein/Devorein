@@ -17,3 +17,10 @@ jobs:
         with:
           COMMIT_MSG: Updated Readme
           MAX_LINES: 10
+      - name: "Hashnode Articles post Updater"
+        uses: "varunsridharan/action-hashnode-blog@main"
+        with:
+          USERNAME: 'devorein'
+          COUNT: 6
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}:  
