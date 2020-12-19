@@ -142,7 +142,12 @@ Profile stats              |  Language Contribution
 <details>
 <summary>📚 My Latest Blog Posts</summary>
 <!-- HASHNODE_BLOG:START -->
-- [Open source node.js + ts notion api](https://devorein.hashnode.dev/open-source-nodejs-ts-notion-api-cki350hns0134dts17ul07o8p)
+<h3><a href="https://devorein.hashnode.dev/open-source-nodejs-ts-notion-api-cki350hns0134dts17ul07o8p" title="Open source node.js + ts notion api">Open source node.js + ts notion api</a></h3>
+<a href="https://devorein.hashnode.dev/open-source-nodejs-ts-notion-api-cki350hns0134dts17ul07o8p" title="Open source node.js + ts notion api"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1606654838477/Zi4_Ggl8t.png" alt="Open source node.js + ts notion api" width="400px" align="" /></a>
+<p>Nishan
+Nishan is an open-source notion API built with typescript, axios, and node to automate almost all the CRUD functionalities the notion client provides by itself.
+Reasons
+As an avid notion user and a front end developer, I've always wanted to au...</p>
 <!-- HASHNODE_BLOG:END -->
 </details>
 
