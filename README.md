@@ -156,11 +156,11 @@ As an avid notion user and a front end developer, I’ve always wanted to automa
 <summary>:zap: Recent Github Activities</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3420](https://github.com/algolia/docsearch-configs/pull/3420) in [algolia/docsearch-configs](https://github.com/algolia/docsearch-configs)
-2. ❌ Closed PR [#69](https://github.com/Devorein/Nishan/pull/69) in [Devorein/Nishan](https://github.com/Devorein/Nishan)
-3. ❌ Closed PR [#68](https://github.com/Devorein/Nishan/pull/68) in [Devorein/Nishan](https://github.com/Devorein/Nishan)
-4. 🎉 Merged PR [#65](https://github.com/Devorein/Nishan/pull/65) in [Devorein/Nishan](https://github.com/Devorein/Nishan)
-5. 🎉 Merged PR [#66](https://github.com/Devorein/Nishan/pull/66) in [Devorein/Nishan](https://github.com/Devorein/Nishan)
+1. ❌ Closed PR [#70](https://github.com/Devorein/Nishan/pull/70) in [Devorein/Nishan](https://github.com/Devorein/Nishan)
+2. ❌ Closed PR [#71](https://github.com/Devorein/Nishan/pull/71) in [Devorein/Nishan](https://github.com/Devorein/Nishan)
+3. 💪 Opened PR [#3420](https://github.com/algolia/docsearch-configs/pull/3420) in [algolia/docsearch-configs](https://github.com/algolia/docsearch-configs)
+4. ❌ Closed PR [#69](https://github.com/Devorein/Nishan/pull/69) in [Devorein/Nishan](https://github.com/Devorein/Nishan)
+5. ❌ Closed PR [#68](https://github.com/Devorein/Nishan/pull/68) in [Devorein/Nishan](https://github.com/Devorein/Nishan)
 <!--END_SECTION:activity-->
 
 </details>
