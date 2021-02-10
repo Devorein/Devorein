@@ -2,12 +2,12 @@
 
 <h2 align="center">A little about me</h2>
 
-<p><em>A first year undergrad student at <a href="https://www.bracu.ac.bd/">BRAC University</a>, majoring in Computer Science and Engineering.</br>
+<p><em>A second year undergrad student at <a href="https://www.bracu.ac.bd/">BRAC University</a>, majoring in Computer Science and Engineering.</br>
 </em></p>
 
 As far as my credentials I'm currently a Frontend developer and part time Designer, trying my best to become a fullstack one and then taking it up a notch by mastering devops as well.
 
-- 🔭 I’m currently working on ... [Notion API](https://github.com/Nishan-Open-Source/Nishan) and [Reinforz](https://devorein.github.io/reinforz/)
+- 🔭 I’m currently working on ... [Nishan Ecosystem](https://github.com/Devorein/Nishan)
 - 🌱 I’m currently learning ... Apollo ecosystem, React, Typescript, Postgresql and Redis from top to bottom without any gaps
 - 👯 I’m looking to collaborate on ... Any ambitious MERN/G/T Project
 - 💬 Ask me about ...Web Development, Fitness, UFC, Solo leveling 
@@ -75,7 +75,7 @@ const aboutMe = {
       editors: ["VSCode"],
       design: ["Figma", "Adobe Illustrator"] 
    },
-   current_occupation: ["First year student", "Contributing to Open source", "Writing fullstack isomorphic JavaScript applications", "Learning new technologies", "Solidifying existing knowledge"],
+   current_occupation: ["Second year student", "Contributing to Open source", "Writing fullstack isomorphic JavaScript applications", "Learning new technologies", "Solidifying existing knowledge"],
 };
 ```
 
@@ -126,9 +126,9 @@ const aboutMe = {
 
 <p align="center">
 <a href="mailto:devorein00@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-devorein00@gmail.com-red?style=flat&logo=gmail"></a>
-<a href="https://discord.com/channels/@me"><img alt="Email" src="https://img.shields.io/badge/Discord-Devorein2924-blue?style=flat&logo=discord"></a>
-<a href="https://www.reddit.com/user/dev0rein"><img alt="Email" src="https://img.shields.io/badge/Reddit-dev0rein-orange?style=flat&logo=reddit"></a>
-<a href="https://twitter.com/devorein"><img alt="Email" src="https://img.shields.io/badge/Twitter-devorein-blue?style=flat&logo=twitter"></a>
+<a href="https://discord.com/channels/@me"><img alt="Discord" src="https://img.shields.io/badge/Discord-Devorein%232924-blue?style=flat&logo=discord"></a>
+<a href="https://www.reddit.com/user/dev0rein"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-dev0rein-orange?style=flat&logo=reddit"></a>
+<a href="https://twitter.com/devorein"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-devorein-blue?style=flat&logo=twitter"></a>
 <a href="https://www.linkedin.com/in/safwan-shaheer-4b759a1bb/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-devorein-blue?style=flat&logo=linkedin"></a>
 </p>
   
