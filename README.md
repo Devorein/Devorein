@@ -157,10 +157,10 @@ As an avid notion user and a front end developer, I’ve always wanted to automa
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/phuctm97/ntast/issues/1) in [phuctm97/ntast](https://github.com/phuctm97/ntast)
-2. 💪 Opened PR [#1](https://github.com/phuctm97/ntast/pull/1) in [phuctm97/ntast](https://github.com/phuctm97/ntast)
-3. 🎉 Merged PR [#83](https://github.com/Devorein/Nishan/pull/83) in [Devorein/Nishan](https://github.com/Devorein/Nishan)
-4. 🎉 Merged PR [#79](https://github.com/Devorein/Nishan/pull/79) in [Devorein/Nishan](https://github.com/Devorein/Nishan)
-5. 🎉 Merged PR [#82](https://github.com/Devorein/Nishan/pull/82) in [Devorein/Nishan](https://github.com/Devorein/Nishan)
+2. 🗣 Commented on [#1](https://github.com/phuctm97/ntast/issues/1) in [phuctm97/ntast](https://github.com/phuctm97/ntast)
+3. 💪 Opened PR [#1](https://github.com/phuctm97/ntast/pull/1) in [phuctm97/ntast](https://github.com/phuctm97/ntast)
+4. 🎉 Merged PR [#83](https://github.com/Devorein/Nishan/pull/83) in [Devorein/Nishan](https://github.com/Devorein/Nishan)
+5. 🎉 Merged PR [#79](https://github.com/Devorein/Nishan/pull/79) in [Devorein/Nishan](https://github.com/Devorein/Nishan)
 <!--END_SECTION:activity-->
 
 </details>
