@@ -156,11 +156,11 @@ As an avid notion user and a front end developer, I’ve always wanted to automa
 <summary>:zap: Recent Github Activities</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/mjbvz/vscode-folder-source-actions/issues/4) in [mjbvz/vscode-folder-source-actions](https://github.com/mjbvz/vscode-folder-source-actions)
-2. 🎉 Merged PR [#95](https://github.com/Devorein/Nishan/pull/95) in [Devorein/Nishan](https://github.com/Devorein/Nishan)
-3. 🎉 Merged PR [#94](https://github.com/Devorein/Nishan/pull/94) in [Devorein/Nishan](https://github.com/Devorein/Nishan)
-4. 🎉 Merged PR [#93](https://github.com/Devorein/Nishan/pull/93) in [Devorein/Nishan](https://github.com/Devorein/Nishan)
-5. 🎉 Merged PR [#90](https://github.com/Devorein/Nishan/pull/90) in [Devorein/Nishan](https://github.com/Devorein/Nishan)
+1. 🗣 Commented on [#1](https://github.com/phuctm97/ntast/issues/1) in [phuctm97/ntast](https://github.com/phuctm97/ntast)
+2. 🗣 Commented on [#4](https://github.com/mjbvz/vscode-folder-source-actions/issues/4) in [mjbvz/vscode-folder-source-actions](https://github.com/mjbvz/vscode-folder-source-actions)
+3. 🎉 Merged PR [#95](https://github.com/Devorein/Nishan/pull/95) in [Devorein/Nishan](https://github.com/Devorein/Nishan)
+4. 🎉 Merged PR [#94](https://github.com/Devorein/Nishan/pull/94) in [Devorein/Nishan](https://github.com/Devorein/Nishan)
+5. 🎉 Merged PR [#93](https://github.com/Devorein/Nishan/pull/93) in [Devorein/Nishan](https://github.com/Devorein/Nishan)
 <!--END_SECTION:activity-->
 
 </details>
