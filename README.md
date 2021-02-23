@@ -157,10 +157,10 @@ As an avid notion user and a front end developer, I’ve always wanted to automa
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#4](https://github.com/phuctm97/ntast/issues/4) in [phuctm97/ntast](https://github.com/phuctm97/ntast)
-2. ❗️ Closed issue [#2](https://github.com/phuctm97/ntast/issues/2) in [phuctm97/ntast](https://github.com/phuctm97/ntast)
-3. 🗣 Commented on [#2](https://github.com/phuctm97/ntast/issues/2) in [phuctm97/ntast](https://github.com/phuctm97/ntast)
-4. 💪 Opened PR [#4](https://github.com/phuctm97/ntast/pull/4) in [phuctm97/ntast](https://github.com/phuctm97/ntast)
-5. 🎉 Merged PR [#1](https://github.com/Devorein/ntast/pull/1) in [Devorein/ntast](https://github.com/Devorein/ntast)
+2. 🗣 Commented on [#4](https://github.com/phuctm97/ntast/issues/4) in [phuctm97/ntast](https://github.com/phuctm97/ntast)
+3. ❗️ Closed issue [#2](https://github.com/phuctm97/ntast/issues/2) in [phuctm97/ntast](https://github.com/phuctm97/ntast)
+4. 🗣 Commented on [#2](https://github.com/phuctm97/ntast/issues/2) in [phuctm97/ntast](https://github.com/phuctm97/ntast)
+5. 💪 Opened PR [#4](https://github.com/phuctm97/ntast/pull/4) in [phuctm97/ntast](https://github.com/phuctm97/ntast)
 <!--END_SECTION:activity-->
 
 </details>
