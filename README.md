@@ -156,11 +156,11 @@ As an avid notion user and a front end developer, I’ve always wanted to automa
 <summary>:zap: Recent Github Activities</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#135](https://github.com/Devorein/Nishan/pull/135) in [Devorein/Nishan](https://github.com/Devorein/Nishan)
-2. 🎉 Merged PR [#134](https://github.com/Devorein/Nishan/pull/134) in [Devorein/Nishan](https://github.com/Devorein/Nishan)
-3. 🎉 Merged PR [#133](https://github.com/Devorein/Nishan/pull/133) in [Devorein/Nishan](https://github.com/Devorein/Nishan)
-4. 🎉 Merged PR [#132](https://github.com/Devorein/Nishan/pull/132) in [Devorein/Nishan](https://github.com/Devorein/Nishan)
-5. 🎉 Merged PR [#130](https://github.com/Devorein/Nishan/pull/130) in [Devorein/Nishan](https://github.com/Devorein/Nishan)
+1. ❗️ Opened issue [#243](https://github.com/codecov/codecov-action/issues/243) in [codecov/codecov-action](https://github.com/codecov/codecov-action)
+2. 🎉 Merged PR [#135](https://github.com/Devorein/Nishan/pull/135) in [Devorein/Nishan](https://github.com/Devorein/Nishan)
+3. 🎉 Merged PR [#134](https://github.com/Devorein/Nishan/pull/134) in [Devorein/Nishan](https://github.com/Devorein/Nishan)
+4. 🎉 Merged PR [#133](https://github.com/Devorein/Nishan/pull/133) in [Devorein/Nishan](https://github.com/Devorein/Nishan)
+5. 🎉 Merged PR [#132](https://github.com/Devorein/Nishan/pull/132) in [Devorein/Nishan](https://github.com/Devorein/Nishan)
 <!--END_SECTION:activity-->
 
 </details>
