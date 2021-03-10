@@ -8,7 +8,7 @@
 As far as my credentials I'm currently a Frontend developer and part time Designer, trying my best to become a fullstack one and then taking it up a notch by mastering devops as well.
 
 - 🔭 I’m currently working on ... [Nishan Ecosystem](https://github.com/Devorein/Nishan)
-- 🌱 I’m currently learning ... Apollo ecosystem, React, Typescript, Postgresql and Redis from top to bottom without any gaps
+- 🌱 I’m currently learning ... Apollo ecosystem, React, Typescript, Postgresql and Bash from top to bottom without any gaps
 - 👯 I’m looking to collaborate on ... Any ambitious MERN/G/T Project
 - 💬 Ask me about ...Web Development, Fitness, UFC, Solo leveling 
 - ⚡ Fun fact: ... I'm a proud AroAce (Aromantic & Asexual) 🟢⚫🟣 :D
@@ -18,7 +18,7 @@ As far as my credentials I'm currently a Frontend developer and part time Design
 ```javascript
 const aboutMe = {
    pronouns: "he"|"him",
-   languages: ["Typescript", "Python", "Sass", "Dart", "Java", "C++"],
+   languages: ["Typescript", "Python", "Sass", "Dart", "Java", "C++", "bash"],
    libraries: {
       frontend: {
         ui: ["React"],
@@ -66,7 +66,8 @@ const aboutMe = {
    tools: {
       devops:{
           paas: ["docker"],
-          ci_cd': ["Github Actions"],
+          ci_cd: ["Github Actions"],
+          shell: ["bash"]
       },
       code_hosting: ["Github"],
       version_control: ["Git"],
