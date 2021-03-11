@@ -157,11 +157,11 @@ As an avid notion user and a front end developer, I’ve always wanted to automa
 <summary>:zap: Recent Github Activities</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](https://github.com/benborgers/potion/pull/11) in [benborgers/potion](https://github.com/benborgers/potion)
-2. 🎉 Merged PR [#149](https://github.com/Devorein/Nishan/pull/149) in [Devorein/Nishan](https://github.com/Devorein/Nishan)
-3. 🎉 Merged PR [#148](https://github.com/Devorein/Nishan/pull/148) in [Devorein/Nishan](https://github.com/Devorein/Nishan)
-4. 🎉 Merged PR [#147](https://github.com/Devorein/Nishan/pull/147) in [Devorein/Nishan](https://github.com/Devorein/Nishan)
-5. 🎉 Merged PR [#146](https://github.com/Devorein/Nishan/pull/146) in [Devorein/Nishan](https://github.com/Devorein/Nishan)
+1. 🗣 Commented on [#11](https://github.com/benborgers/potion/issues/11) in [benborgers/potion](https://github.com/benborgers/potion)
+2. 💪 Opened PR [#11](https://github.com/benborgers/potion/pull/11) in [benborgers/potion](https://github.com/benborgers/potion)
+3. 🎉 Merged PR [#149](https://github.com/Devorein/Nishan/pull/149) in [Devorein/Nishan](https://github.com/Devorein/Nishan)
+4. 🎉 Merged PR [#148](https://github.com/Devorein/Nishan/pull/148) in [Devorein/Nishan](https://github.com/Devorein/Nishan)
+5. 🎉 Merged PR [#147](https://github.com/Devorein/Nishan/pull/147) in [Devorein/Nishan](https://github.com/Devorein/Nishan)
 <!--END_SECTION:activity-->
 
 </details>
