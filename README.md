@@ -157,11 +157,11 @@ As an avid notion user and a front end developer, I’ve always wanted to automa
 <summary>:zap: Recent Github Activities</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/benborgers/potion/pull/12) in [benborgers/potion](https://github.com/benborgers/potion)
-2. ❗️ Closed issue [#243](https://github.com/codecov/codecov-action/issues/243) in [codecov/codecov-action](https://github.com/codecov/codecov-action)
-3. 🗣 Commented on [#11](https://github.com/benborgers/potion/issues/11) in [benborgers/potion](https://github.com/benborgers/potion)
-4. 💪 Opened PR [#11](https://github.com/benborgers/potion/pull/11) in [benborgers/potion](https://github.com/benborgers/potion)
-5. 🎉 Merged PR [#149](https://github.com/Devorein/Nishan/pull/149) in [Devorein/Nishan](https://github.com/Devorein/Nishan)
+1. 💪 Opened PR [#6](https://github.com/softmantk/perflog.js/pull/6) in [softmantk/perflog.js](https://github.com/softmantk/perflog.js)
+2. 💪 Opened PR [#12](https://github.com/benborgers/potion/pull/12) in [benborgers/potion](https://github.com/benborgers/potion)
+3. ❗️ Closed issue [#243](https://github.com/codecov/codecov-action/issues/243) in [codecov/codecov-action](https://github.com/codecov/codecov-action)
+4. 🗣 Commented on [#11](https://github.com/benborgers/potion/issues/11) in [benborgers/potion](https://github.com/benborgers/potion)
+5. 💪 Opened PR [#11](https://github.com/benborgers/potion/pull/11) in [benborgers/potion](https://github.com/benborgers/potion)
 <!--END_SECTION:activity-->
 
 </details>
