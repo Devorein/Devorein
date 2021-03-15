@@ -157,11 +157,11 @@ As an avid notion user and a front end developer, I’ve always wanted to automa
 <summary>:zap: Recent Github Activities</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/benborgers/potion/issues/12) in [benborgers/potion](https://github.com/benborgers/potion)
-2. 💪 Opened PR [#6](https://github.com/softmantk/perflog.js/pull/6) in [softmantk/perflog.js](https://github.com/softmantk/perflog.js)
-3. 💪 Opened PR [#12](https://github.com/benborgers/potion/pull/12) in [benborgers/potion](https://github.com/benborgers/potion)
-4. ❗️ Closed issue [#243](https://github.com/codecov/codecov-action/issues/243) in [codecov/codecov-action](https://github.com/codecov/codecov-action)
-5. 🗣 Commented on [#11](https://github.com/benborgers/potion/issues/11) in [benborgers/potion](https://github.com/benborgers/potion)
+1. ❌ Closed PR [#153](https://github.com/Devorein/Nishan/pull/153) in [Devorein/Nishan](https://github.com/Devorein/Nishan)
+2. 🎉 Merged PR [#152](https://github.com/Devorein/Nishan/pull/152) in [Devorein/Nishan](https://github.com/Devorein/Nishan)
+3. 🎉 Merged PR [#151](https://github.com/Devorein/Nishan/pull/151) in [Devorein/Nishan](https://github.com/Devorein/Nishan)
+4. 🎉 Merged PR [#150](https://github.com/Devorein/Nishan/pull/150) in [Devorein/Nishan](https://github.com/Devorein/Nishan)
+5. 🗣 Commented on [#12](https://github.com/benborgers/potion/issues/12) in [benborgers/potion](https://github.com/benborgers/potion)
 <!--END_SECTION:activity-->
 
 </details>
