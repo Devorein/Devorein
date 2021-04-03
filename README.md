@@ -157,11 +157,11 @@ As an avid notion user and a front end developer, I’ve always wanted to automa
 <summary>:zap: Recent Github Activities</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#187](https://github.com/Devorein/Nishan/pull/187) in [Devorein/Nishan](https://github.com/Devorein/Nishan)
-2. 🎉 Merged PR [#189](https://github.com/Devorein/Nishan/pull/189) in [Devorein/Nishan](https://github.com/Devorein/Nishan)
-3. 🎉 Merged PR [#186](https://github.com/Devorein/Nishan/pull/186) in [Devorein/Nishan](https://github.com/Devorein/Nishan)
-4. 🎉 Merged PR [#190](https://github.com/Devorein/Nishan/pull/190) in [Devorein/Nishan](https://github.com/Devorein/Nishan)
-5. 🎉 Merged PR [#191](https://github.com/Devorein/Nishan/pull/191) in [Devorein/Nishan](https://github.com/Devorein/Nishan)
+1. 🗣 Commented on [#1219](https://github.com/react-native-community/cli/issues/1219) in [react-native-community/cli](https://github.com/react-native-community/cli)
+2. 🗣 Commented on [#194](https://github.com/Devorein/Nishan/issues/194) in [Devorein/Nishan](https://github.com/Devorein/Nishan)
+3. 🗣 Commented on [#194](https://github.com/Devorein/Nishan/issues/194) in [Devorein/Nishan](https://github.com/Devorein/Nishan)
+4. 🗣 Commented on [#193](https://github.com/Devorein/Nishan/issues/193) in [Devorein/Nishan](https://github.com/Devorein/Nishan)
+5. 🎉 Merged PR [#187](https://github.com/Devorein/Nishan/pull/187) in [Devorein/Nishan](https://github.com/Devorein/Nishan)
 <!--END_SECTION:activity-->
 
 </details>
