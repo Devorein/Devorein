@@ -5,20 +5,20 @@
 <p><em>A second year undergrad student at <a href="https://www.bracu.ac.bd/">BRAC University</a>, majoring in Computer Science and Engineering.</br>
 </em></p>
 
-As far as my credentials I'm currently a Frontend developer and part time Designer, trying my best to become a fullstack one and then taking it up a notch by mastering devops as well.
+As far as my credentials I'm currently a fullstack web and mobile developer and part time Designer, trying my best to keep up with the upcoming technologies and mastering the existing ones.
 
 - 🔭 I’m currently working on ... [Nishan Ecosystem](https://github.com/Devorein/Nishan)
-- 🌱 I’m currently learning ... Apollo ecosystem, React, Typescript, Postgresql and Bash from top to bottom without any gaps
+- 🌱 I’m currently learning ... AWS, React Native, Powershell, Urql and Graphql Codegen from top to bottom without any gaps
 - 👯 I’m looking to collaborate on ... Any ambitious MERN/G/T Project
-- 💬 Ask me about ...Web Development, Fitness, UFC, Solo leveling 
-- ⚡ Fun fact: ... I'm a proud AroAce (Aromantic & Asexual) 🟢⚫🟣 :D
+- 💬 Ask me about ...Web and Mobile Development, Fitness, UFC, Solo leveling and Liverpool FC 
+- ⚡ Fun fact: ... I'm a proud AroAce (Aromantic & Asexual) 🟢⚫🟣 ;D
 
 <h2 align="center">Detail of my current knowledge</h2>
 
 ```javascript
 const aboutMe = {
    pronouns: "he"|"him",
-   languages: ["Typescript", "Python", "Sass", "Dart", "Java", "C++", "bash"],
+   languages: ["Typescript", "Python", "Sass", "Dart", "Java", "C++", "Bash"],
    libraries: {
       frontend: {
         ui: ["React"],
@@ -53,7 +53,7 @@ const aboutMe = {
       }
    },
    databases: {
-      no_sql: ["MongoDB"],
+      no_sql: ["MongoDB", "DynamoDB"],
       sql: ["PostGreSQL"],
       in_memory: ["Redis"]
    },
@@ -74,7 +74,8 @@ const aboutMe = {
       api_testing: ["POSTMan"],
       web_hosting: ["Heroku", "Github Pages", "Netlify"],
       editors: ["VSCode"],
-      design: ["Figma", "Adobe Illustrator"] 
+      design: ["Figma", "Adobe Illustrator"],
+      cloud: ["AWS", "GCP"]
    },
    current_occupation: ["Second year student", "Contributing to Open source", "Writing fullstack isomorphic JavaScript applications", "Learning new technologies", "Solidifying existing knowledge"],
 };
