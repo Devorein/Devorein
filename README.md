@@ -158,11 +158,11 @@ As an avid notion user and a front end developer, I’ve always wanted to automa
 <summary>:zap: Recent Github Activities</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#32](https://github.com/benawad/lireddit/pull/32) in [benawad/lireddit](https://github.com/benawad/lireddit)
-2. 🗣 Commented on [#29](https://github.com/benawad/lireddit/issues/29) in [benawad/lireddit](https://github.com/benawad/lireddit)
-3. 🗣 Commented on [#29](https://github.com/benawad/lireddit/issues/29) in [benawad/lireddit](https://github.com/benawad/lireddit)
-4. 🎉 Merged PR [#236](https://github.com/Devorein/Nishan/pull/236) in [Devorein/Nishan](https://github.com/Devorein/Nishan)
-5. 🎉 Merged PR [#225](https://github.com/Devorein/Nishan/pull/225) in [Devorein/Nishan](https://github.com/Devorein/Nishan)
+1. 🎉 Merged PR [#239](https://github.com/Devorein/Nishan/pull/239) in [Devorein/Nishan](https://github.com/Devorein/Nishan)
+2. 🎉 Merged PR [#237](https://github.com/Devorein/Nishan/pull/237) in [Devorein/Nishan](https://github.com/Devorein/Nishan)
+3. 🎉 Merged PR [#241](https://github.com/Devorein/Nishan/pull/241) in [Devorein/Nishan](https://github.com/Devorein/Nishan)
+4. 🎉 Merged PR [#238](https://github.com/Devorein/Nishan/pull/238) in [Devorein/Nishan](https://github.com/Devorein/Nishan)
+5. 🎉 Merged PR [#242](https://github.com/Devorein/Nishan/pull/242) in [Devorein/Nishan](https://github.com/Devorein/Nishan)
 <!--END_SECTION:activity-->
 
 </details>
