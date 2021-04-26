@@ -8,7 +8,7 @@
 As far as my credentials I'm currently a fullstack web and mobile developer and part time Designer, trying my best to keep up with the upcoming technologies and mastering the existing ones.
 
 - 🔭 I’m currently working on ... [Nishan Ecosystem](https://github.com/Devorein/Nishan)
-- 🌱 I’m currently learning ... AWS, React Native, Powershell, Urql and Graphql Codegen from top to bottom without any gaps
+- 🌱 I’m currently learning ... AWS, React Native, Go, Urql and Graphql Codegen from top to bottom without any gaps
 - 👯 I’m looking to collaborate on ... Any ambitious MERN/G/T Project
 - 💬 Ask me about ...Web and Mobile Development, Fitness, UFC, Solo leveling and Liverpool FC 
 - ⚡ Fun fact: ... I'm a proud AroAce (Aromantic & Asexual) 🟢⚫🟣 ;D
@@ -18,7 +18,7 @@ As far as my credentials I'm currently a fullstack web and mobile developer and 
 ```javascript
 const aboutMe = {
    pronouns: "he"|"him",
-   languages: ["Typescript", "Python", "Sass", "Dart", "Java", "C++", "Bash"],
+   languages: ["Typescript", "Python", "Sass", "Dart", "Java", "Go", "C++", "Bash"],
    libraries: {
       frontend: {
         ui: ["React"],
