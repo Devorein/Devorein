@@ -9,7 +9,7 @@ As far as my credentials I'm currently a fullstack web and mobile developer and 
 
 - 🔭 I’m currently working on ... [Nishan Ecosystem](https://github.com/Devorein/Nishan)
 - 🌱 I’m currently learning ... AWS, React Native, Go, Urql and Graphql Codegen from top to bottom without any gaps
-- 👯 I’m looking to collaborate on ... Any ambitious MERN/G/T Project
+- 👯 I’m looking to collaborate on ... Any ambitious P/MERN/G or React Native Project
 - 💬 Ask me about ...Web and Mobile Development, Fitness, UFC, Solo leveling and Liverpool FC 
 - ⚡ Fun fact: ... I'm a proud AroAce (Aromantic & Asexual) 🟢⚫🟣 ;D
 
