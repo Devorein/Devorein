@@ -158,11 +158,11 @@ As an avid notion user and a front end developer, I’ve always wanted to automa
 <summary>:zap: Recent Github Activities</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#195](https://github.com/LeCoupa/awesome-cheatsheets/pull/195) in [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
-2. 💪 Opened PR [#503](https://github.com/indiespirit/react-native-chart-kit/pull/503) in [indiespirit/react-native-chart-kit](https://github.com/indiespirit/react-native-chart-kit)
-3. 🎉 Merged PR [#250](https://github.com/Devorein/Nishan/pull/250) in [Devorein/Nishan](https://github.com/Devorein/Nishan)
-4. 🎉 Merged PR [#249](https://github.com/Devorein/Nishan/pull/249) in [Devorein/Nishan](https://github.com/Devorein/Nishan)
-5. 🎉 Merged PR [#248](https://github.com/Devorein/Nishan/pull/248) in [Devorein/Nishan](https://github.com/Devorein/Nishan)
+1. 🎉 Merged PR [#251](https://github.com/Devorein/Nishan/pull/251) in [Devorein/Nishan](https://github.com/Devorein/Nishan)
+2. 🎉 Merged PR [#253](https://github.com/Devorein/Nishan/pull/253) in [Devorein/Nishan](https://github.com/Devorein/Nishan)
+3. 🎉 Merged PR [#252](https://github.com/Devorein/Nishan/pull/252) in [Devorein/Nishan](https://github.com/Devorein/Nishan)
+4. 🎉 Merged PR [#255](https://github.com/Devorein/Nishan/pull/255) in [Devorein/Nishan](https://github.com/Devorein/Nishan)
+5. 🎉 Merged PR [#256](https://github.com/Devorein/Nishan/pull/256) in [Devorein/Nishan](https://github.com/Devorein/Nishan)
 <!--END_SECTION:activity-->
 
 </details>
