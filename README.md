@@ -144,6 +144,13 @@ Profile stats              |  Language Contribution
 <details>
 <summary>📚 My Latest Blog Posts</summary>
 <!-- HASHNODE_BLOG:START -->
+<h3><a href="https://devorein.hashnode.dev/auto-populate-your-github-readme-learned-section-with-data-fetched-from-a-remote-notion-database-ckoa7ggqp01llirs1824v8cjv" title="Auto-populate your Github readme learned section with data fetched from a remote notion database.">Auto-populate your Github readme learned section with data fetched from a remote notion database.</a></h3>
+<a href="https://devorein.hashnode.dev/auto-populate-your-github-readme-learned-section-with-data-fetched-from-a-remote-notion-database-ckoa7ggqp01llirs1824v8cjv" title="Auto-populate your Github readme learned section with data fetched from a remote notion database."><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1620143441204/FQNBNA_15.png" alt="Auto-populate your Github readme learned section with data fetched from a remote notion database." width="400px" align="" /></a>
+<p>Hello everyone. This article will share how I managed to auto-populate a Github readme learned section using data fetched from a remote notion database using a GitHub action that I created using Typescript.
+Github
+Steps
+In Repository File
+1. Add the ...</p>
 <h3><a href="https://devorein.hashnode.dev/open-source-typescript-based-notion-api-for-christmas-hackathon-cki350hns0134dts17ul07o8p" title="Open source typescript based notion API for Christmas Hackathon">Open source typescript based notion API for Christmas Hackathon</a></h3>
 <a href="https://devorein.hashnode.dev/open-source-typescript-based-notion-api-for-christmas-hackathon-cki350hns0134dts17ul07o8p" title="Open source typescript based notion API for Christmas Hackathon"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1606654838477/Zi4_Ggl8t.png" alt="Open source typescript based notion API for Christmas Hackathon" width="400px" align="" /></a>
 <p>Nishan
