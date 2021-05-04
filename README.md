@@ -144,8 +144,8 @@ Profile stats              |  Language Contribution
 <details>
 <summary>📚 My Latest Blog Posts</summary>
 <!-- HASHNODE_BLOG:START -->
-<h3><a href="https://devorein.hashnode.dev/auto-populate-your-github-readme-learned-section-with-data-fetched-from-a-remote-notion-database-ckoa7ggqp01llirs1824v8cjv" title="Auto-populate your Github readme learned section with data fetched from a remote notion database.">Auto-populate your Github readme learned section with data fetched from a remote notion database.</a></h3>
-<a href="https://devorein.hashnode.dev/auto-populate-your-github-readme-learned-section-with-data-fetched-from-a-remote-notion-database-ckoa7ggqp01llirs1824v8cjv" title="Auto-populate your Github readme learned section with data fetched from a remote notion database."><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1620143441204/FQNBNA_15.png" alt="Auto-populate your Github readme learned section with data fetched from a remote notion database." width="400px" align="" /></a>
+<h3><a href="https://devorein.hashnode.dev/auto-populate-your-github-readme-with-data-fetched-from-a-remote-notion-database-ckoa7ggqp01llirs1824v8cjv" title="Auto-populate your Github readme with data fetched from a remote notion database.">Auto-populate your Github readme with data fetched from a remote notion database.</a></h3>
+<a href="https://devorein.hashnode.dev/auto-populate-your-github-readme-with-data-fetched-from-a-remote-notion-database-ckoa7ggqp01llirs1824v8cjv" title="Auto-populate your Github readme with data fetched from a remote notion database."><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1620143441204/FQNBNA_15.png" alt="Auto-populate your Github readme with data fetched from a remote notion database." width="400px" align="" /></a>
 <p>Hello everyone. This article will share how I managed to auto-populate a Github readme learned section using data fetched from a remote notion database using a GitHub action that I created using Typescript.
 Github
 Steps
