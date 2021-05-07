@@ -26,22 +26,20 @@ const aboutMe = {
         linter: ["eslint"],
         react: {
            animation: ["RTG"],
-           design_systems: ["Material UI", "Ant Design", "Chakra UI"],
+           design_systems: ["Material UI"],
            state_management: ["Redux"],
            routing: ["React Router"],
            cssinjs: ["Styled Components"],
-           prototyping: ["Storybook"],
            forms: ["Formik"]
         },
-        css: ["PostCSS"],
         http: ["Axios"],
-        bundler:["rollup", "webpack", "parcel"],
+        bundler:["webpack"],
       },
       backend: {
         orm: ["Mongoose", "Sequelize"],
         cmd: ["yargs"],
       },
-      testing: ["Puppeteer", "Jest"]
+      testing: ["Jest"]
    },
    frameworks: {
       backend: {
@@ -53,7 +51,7 @@ const aboutMe = {
       }
    },
    databases: {
-      no_sql: ["MongoDB", "DynamoDB"],
+      no_sql: ["MongoDB"],
       sql: ["PostGreSQL"],
       in_memory: ["Redis"]
    },
@@ -75,7 +73,7 @@ const aboutMe = {
       web_hosting: ["Heroku", "Github Pages", "Netlify"],
       editors: ["VSCode"],
       design: ["Figma", "Adobe Illustrator"],
-      cloud: ["AWS", "GCP"]
+      cloud: ["AWS"]
    },
    current_occupation: ["Second year student", "Contributing to Open source", "Writing fullstack isomorphic JavaScript applications", "Learning new technologies", "Solidifying existing knowledge"],
 };
