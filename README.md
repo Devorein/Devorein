@@ -165,10 +165,10 @@ As an avid notion user and a front end developer, I’ve always wanted to automa
 <summary>:zap: Recent Github Activities</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/varunsridharan/action-hashnode-blog/issues/1) in [varunsridharan/action-hashnode-blog](https://github.com/varunsridharan/action-hashnode-blog)
-2. ❗️ Opened issue [#1](https://github.com/varunsridharan/action-hashnode-blog/issues/1) in [varunsridharan/action-hashnode-blog](https://github.com/varunsridharan/action-hashnode-blog)
-3. 🎉 Merged PR [#251](https://github.com/Devorein/Nishan/pull/251) in [Devorein/Nishan](https://github.com/Devorein/Nishan)
-4. 🎉 Merged PR [#253](https://github.com/Devorein/Nishan/pull/253) in [Devorein/Nishan](https://github.com/Devorein/Nishan)
+1. 🎉 Merged PR [#1](https://github.com/Devorein/action-hashnode-blog/pull/1) in [Devorein/action-hashnode-blog](https://github.com/Devorein/action-hashnode-blog)
+2. 💪 Opened PR [#1](https://github.com/Devorein/action-hashnode-blog/pull/1) in [Devorein/action-hashnode-blog](https://github.com/Devorein/action-hashnode-blog)
+3. 💪 Opened PR [#2](https://github.com/varunsridharan/action-hashnode-blog/pull/2) in [varunsridharan/action-hashnode-blog](https://github.com/varunsridharan/action-hashnode-blog)
+4. 🗣 Commented on [#1](https://github.com/varunsridharan/action-hashnode-blog/issues/1) in [varunsridharan/action-hashnode-blog](https://github.com/varunsridharan/action-hashnode-blog)
 5. 🎉 Merged PR [#252](https://github.com/Devorein/Nishan/pull/252) in [Devorein/Nishan](https://github.com/Devorein/Nishan)
 <!--END_SECTION:activity-->
 
