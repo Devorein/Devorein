@@ -17,7 +17,7 @@ jobs:
         with:
           COMMIT_MSG: Updated Readme
           MAX_LINES: 10
-      - uses: "varunsridharan/action-hashnode-blog@main"
+      - uses: "devorein/action-hashnode-blog@main"
         with:
           USERNAME: 'devorein'
           STYLE: blog
