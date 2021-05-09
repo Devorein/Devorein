@@ -3,7 +3,6 @@ name: Update README with recent activities
 on:
   schedule:
     - cron: '0 0-23/4 * * *'
-  push:
 
 jobs:
   build:
