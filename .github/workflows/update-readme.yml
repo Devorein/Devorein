@@ -1,6 +1,9 @@
 name: Update README with recent activities
 
 on:
+  push:
+    branches:
+      - main
   schedule:
     - cron: '0 0-23/4 * * *'
   workflow_dispatch:
