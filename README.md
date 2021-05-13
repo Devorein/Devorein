@@ -5,7 +5,7 @@
 <p><em>A second year undergrad student at <a href="https://www.bracu.ac.bd/">BRAC University</a>, majoring in Computer Science and Engineering.</br>
 </em></p>
 
-As far as my credentials I'm currently a fullstack web and mobile developer and part time Designer, trying my best to keep up with the upcoming technologies and mastering the existing ones.
+As far as my credentials I'm currently a fullstack web(P/MERNG) and mobile(RN) developer, trying my best to keep up with the upcoming technologies and mastering the existing ones.
 
 - 🔭 I’m currently working on ... [Nishan Ecosystem](https://github.com/Devorein/Nishan)
 - 🌱 I’m currently learning ... AWS, React Native, Go, Urql and Graphql Codegen from top to bottom without any gaps
@@ -120,7 +120,7 @@ const aboutMe = {
   <img src="https://www.codewars.com/users/Devorein/badges/large" alt="Devorein's Codewars badge">
 </div>
 <div align="center">
-   <img src="https://stackoverflow.com/users/flair/9745104.png?theme=dark" alt="Devorein's Stackoverflow Badge"/>
+   <img src="https://stackoverflow.com/users/flair/9745104.png?theme=light" alt="Devorein's Stackoverflow Badge"/>
 </div>
 <h3 align="center"> Connect with Me at </h3>
 
