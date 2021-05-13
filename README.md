@@ -1,4 +1,4 @@
-### Hi there, Safwan here 👋
+### Hi there, Safwan here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <h2 align="center">A little about me</h2>
 
@@ -120,7 +120,7 @@ const aboutMe = {
   <img src="https://www.codewars.com/users/Devorein/badges/large" alt="Devorein's Codewars badge">
 </div>
 <div align="center">
-   <img src="https://stackoverflow.com/users/flair/9745104.png?theme=light" alt="Devorein's Stackoverflow Badge"/>
+   <img src="https://stackoverflow.com/users/flair/9745104.png?theme=dark" alt="Devorein's Stackoverflow Badge"/>
 </div>
 <h3 align="center"> Connect with Me at </h3>
 
