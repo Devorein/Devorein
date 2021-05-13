@@ -18,7 +18,7 @@ As far as my credentials I'm currently a fullstack web(P/MERNG) and mobile(RN) d
 ```javascript
 const aboutMe = {
    pronouns: "he"|"him",
-   languages: ["Typescript", "Python", "Sass", "Dart", "Java", "Go", "C++", "Bash"],
+   languages: ["Typescript", "Go", "Python", "Sass", "Dart", "Java", "C++", "Bash"],
    libraries: {
       frontend: {
         ui: ["React"],
@@ -36,7 +36,7 @@ const aboutMe = {
         bundler:["webpack"],
       },
       backend: {
-        orm: ["Mongoose", "Sequelize"],
+        orm: ["Mongoose", "Sequelize", "Typeorm"],
         cmd: ["yargs"],
       },
       testing: ["Jest"]
@@ -134,9 +134,18 @@ const aboutMe = {
   
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=devorein&custom_title=Wakatime&theme=dark&layout=compact&langs_count=5" alt="Devorein :: Wakatime Stats" /></p>
 
-Profile stats              |  Language Contribution
-:-------------------------:|:-------------------------:
-![Devorein :: Profile Stats](https://github-readme-stats.vercel.app/api?username=Devorein&show_icons=true&theme=dark) | ![Devorein :: Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devorein&langs_count=10&theme=tokyonight&layout=compact&hide=html)
+<p align="center">
+   <table>
+      <tr>
+       <th>Profile stats  </th>
+       <th>Language Contribution</th>
+     </tr>
+      <tr>
+       <td><img alt="Devorein :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=Devorein&show_icons=true&theme=dark"> </td>
+       <td><img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devorein&langs_count=10&theme=tokyonight&layout=compact&hide=html"> </td>
+     </tr>
+   </table>
+</p>
 
 <details>
 <summary>📚 My Latest Blog Posts</summary>
