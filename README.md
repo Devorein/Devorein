@@ -73,7 +73,7 @@ const aboutMe = {
       web_hosting: ["Heroku", "Github Pages", "Netlify"],
       editors: ["VSCode"],
       design: ["Figma", "Adobe Illustrator"],
-      cloud: ["AWS"]
+      cloud: ["AWS", "digitalocean"]
    },
    current_occupation: ["Second year student", "Contributing to Open source", "Writing fullstack isomorphic JavaScript applications", "Learning new technologies", "Solidifying existing knowledge"],
 };
@@ -120,7 +120,7 @@ const aboutMe = {
   <img src="https://www.codewars.com/users/Devorein/badges/large" alt="Devorein's Codewars badge">
 </div>
 <div align="center">
-   <img src="https://stackoverflow.com/users/flair/9745104.png?theme=dark" alt="Devorein's Stackoverflow Badge"/>
+   <img src="https://stackoverflow.com/users/flair/9745104.png?theme=clean" alt="Devorein's Stackoverflow Badge"/>
 </div>
 <h3 align="center"> Connect with Me at </h3>
 
@@ -133,7 +133,7 @@ const aboutMe = {
 </p>
   
 <h4 align="center">Wakatime week stats</h4>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=devorein" alt="Devorein :: Wakatime Stats" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=devorein&theme=dark" alt="Devorein :: Wakatime Stats" /></p>
 
 Profile stats              |  Language Contribution
 :-------------------------:|:-------------------------:
