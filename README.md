@@ -8,7 +8,7 @@
 As far as my credentials I'm currently a fullstack web(P/MERNG) and mobile(RN) developer, trying my best to keep up with the upcoming technologies and mastering the existing ones.
 
 - 🔭 I’m currently working on ... [Nishan Ecosystem](https://github.com/Devorein/Nishan)
-- 🌱 I’m currently learning ... AWS, React Native, Go, Urql and Graphql Codegen from top to bottom without any gaps
+- 🌱 I’m currently learning ... Docker, React Native, Go, Bash and Digital Ocean from top to bottom without any gaps
 - 👯 I’m looking to collaborate on ... Any ambitious P/MERN/G or React Native Project
 - 💬 Ask me about ...Web and Mobile Development, Fitness, UFC, Solo leveling and Liverpool FC 
 - ⚡ Fun fact: ... I'm a proud AroAce (Aromantic & Asexual) 🟢⚫🟣 ;D
@@ -120,7 +120,7 @@ const aboutMe = {
   <img src="https://www.codewars.com/users/Devorein/badges/large" alt="Devorein's Codewars badge">
 </div>
 <div align="center">
-   <img src="https://stackoverflow.com/users/flair/9745104.png?theme=clean" alt="Devorein's Stackoverflow Badge"/>
+   <img src="https://stackoverflow.com/users/flair/9745104.png?theme=dark" alt="Devorein's Stackoverflow Badge"/>
 </div>
 <h3 align="center"> Connect with Me at </h3>
 
@@ -132,8 +132,7 @@ const aboutMe = {
 <a href="https://www.linkedin.com/in/safwan-shaheer-4b759a1bb/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-devorein-blue?style=flat&logo=linkedin"></a>
 </p>
   
-<h4 align="center">Wakatime week stats</h4>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=devorein&theme=dark" alt="Devorein :: Wakatime Stats" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=devorein&custom_title=Wakatime&theme=dark&layout=compact&langs_count=5" alt="Devorein :: Wakatime Stats" /></p>
 
 Profile stats              |  Language Contribution
 :-------------------------:|:-------------------------:
