@@ -79,6 +79,9 @@ const aboutMe = {
 };
 ```
 
+<!--START_SECTION:learn-->
+<!--END_SECTION:learn-->
+
 <h2 align="center">You can catch me at</h2>
 
 <p align="center">
