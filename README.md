@@ -38,6 +38,7 @@ As far as my credentials I'm currently a fullstack web(P/MERNG) and mobile(RN) d
 <span><img src="https://img.shields.io/badge/-Babel-black?style=flat-square&amp;logo=Babel" alt="Babel"/></span>
 <span><img src="https://img.shields.io/badge/-Eslint-black?style=flat-square&amp;logo=Eslint" alt="Eslint"/></span>
 <span><img src="https://img.shields.io/badge/-Formik-black?style=flat-square&amp;logo=Formik" alt="Formik"/></span>
+<span><img src="https://img.shields.io/badge/-Material%20UI-black?style=flat-square&amp;logo=Material%20UI" alt="Material UI"/></span>
 <span><img src="https://img.shields.io/badge/-Mongoose-black?style=flat-square&amp;logo=Mongoose" alt="Mongoose"/></span>
 <span><img src="https://img.shields.io/badge/-React-black?style=flat-square&amp;logo=React" alt="React"/></span>
 <span><img src="https://img.shields.io/badge/-Redux-black?style=flat-square&amp;logo=Redux" alt="Redux"/></span>
@@ -45,11 +46,13 @@ As far as my credentials I'm currently a fullstack web(P/MERNG) and mobile(RN) d
 <span><img src="https://img.shields.io/badge/-Webpack-black?style=flat-square&amp;logo=Webpack" alt="Webpack"/></span>
 <hr>
 <h3><img height="20px" src="https://img.shields.io/badge/Platforms-487088"/></h3>
+<span><img src="https://img.shields.io/badge/-Digital%20Ocean-black?style=flat-square&amp;logo=Digital%20Ocean" alt="Digital Ocean"/></span>
 <span><img src="https://img.shields.io/badge/-Netlify-black?style=flat-square&amp;logo=Netlify" alt="Netlify"/></span>
 <span><img src="https://img.shields.io/badge/-Vercel-black?style=flat-square&amp;logo=Vercel" alt="Vercel"/></span>
 <hr>
 <h3><img height="20px" src="https://img.shields.io/badge/Tools-6c598f"/></h3>
 <span><img src="https://img.shields.io/badge/-Docker-black?style=flat-square&amp;logo=Docker" alt="Docker"/></span>
+<span><img src="https://img.shields.io/badge/-Git-black?style=flat-square&amp;logo=Git" alt="Git"/></span>
 <span><img src="https://img.shields.io/badge/-Github%20Actions-black?style=flat-square&amp;logo=Github%20Actions" alt="Github Actions"/></span>
 <span><img src="https://img.shields.io/badge/-Postman-black?style=flat-square&amp;logo=Postman" alt="Postman"/></span>
 <hr>
