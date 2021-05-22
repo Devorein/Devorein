@@ -87,6 +87,9 @@ As far as my credentials I'm currently a fullstack web(P/MERNG) and mobile(RN) d
    <a href="https://codepen.io/devorein">
     <img src="https://www.vectorlogo.zone/logos/codepen/codepen-tile.svg" alt="Devorein's Codepen Channel" height="30" width="30">
   </a>
+  <a href="https://replit.com/@Devorein">
+    <img src="https://www.vectorlogo.zone/logos/replit/replit-icon.svg" alt="Devorein's Repl.it Channel" height="30" width="30">
+  </a>
   <a href="https://www.youtube.com/channel/UCVRH1lqDD2m9W8H3KmcY0ow">
     <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Devorein's YouTube Channel" height="30" width="30">
   </a>  
