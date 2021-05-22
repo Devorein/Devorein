@@ -95,11 +95,11 @@ As far as my credentials I'm currently a fullstack web(P/MERNG) and mobile(RN) d
 <div align="center">
   <img src="https://www.codewars.com/users/Devorein/badges/large" alt="Devorein's Codewars badge">
 </div>
-<!-- 
+
 <div align="center">
    <img src="https://stackoverflow.com/users/flair/9745104.png?theme=dark" alt="Devorein's Stackoverflow Badge"/>
 </div>
--->
+
 <h3 align="center"> Connect with Me at </h3>
 
 <p align="center">
