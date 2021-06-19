@@ -100,6 +100,9 @@ As far as my credentials I'm currently a "fullstack" web(P/MERNG) and mobile(RN)
   <a href="https://www.producthunt.com/@devorein">
     <img src="https://www.vectorlogo.zone/logos/producthunt/producthunt-icon.svg" alt="Devorein's Producthunt Profile" height="30" width="30">
   </a>
+  <a href="https://wakatime.com/@devorein">
+    <img src="https://raw.githubusercontent.com/leungwensen/svg-icon/b84b3f3a3da329b7c1d02346865f8e98beb05413/dist/svg/logos/wakatime.svg" alt="Devorein's Wakatime Profile" height="30" width="30">
+  </a>
 </p>
 
 <div align="center">
