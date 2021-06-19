@@ -101,7 +101,10 @@ As far as my credentials I'm currently a "fullstack" web(P/MERNG) and mobile(RN)
     <img src="https://www.vectorlogo.zone/logos/producthunt/producthunt-icon.svg" alt="Devorein's Producthunt Profile" height="30" width="30">
   </a>
   <a href="https://wakatime.com/@devorein">
-    <img src="https://raw.githubusercontent.com/leungwensen/svg-icon/b84b3f3a3da329b7c1d02346865f8e98beb05413/dist/svg/logos/wakatime.svg" alt="Devorein's Wakatime Profile" height="30" width="30">
+    <img src="https://raw.githubusercontent.com/uiwjs/file-icons/e384633d31ef07cceee07346fbada0aade402e46/icon/wakatime.svg" alt="Devorein's Wakatime Profile" height="30" width="30">
+  </a>
+  <a href="https://app.daily.dev/devorein">
+    <img src="https://daily-now-res.cloudinary.com/image/upload/v1614088267/landing/Daily.dev_logo.png" alt="Devorein's Wakatime Profile" height="30" width="30">
   </a>
 </p>
 
