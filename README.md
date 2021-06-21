@@ -169,8 +169,8 @@ As an avid notion user and a front end developer, I’ve always wanted to automa
 <summary>:zap: Recent Github Activities</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Devorein/VIM-Fundamentals/pull/2) in [Devorein/VIM-Fundamentals](https://github.com/Devorein/VIM-Fundamentals)
-2. 🎉 Merged PR [#1](https://github.com/Devorein/VIM-Fundamentals/pull/1) in [Devorein/VIM-Fundamentals](https://github.com/Devorein/VIM-Fundamentals)
+1. 🎉 Merged PR [#5](https://github.com/Devorein/reinforz/pull/5) in [Devorein/reinforz](https://github.com/Devorein/reinforz)
+2. 💪 Opened PR [#5](https://github.com/Devorein/reinforz/pull/5) in [Devorein/reinforz](https://github.com/Devorein/reinforz)
 3. ❗️ Closed issue [#1](https://github.com/Devorein/reinforz/issues/1) in [Devorein/reinforz](https://github.com/Devorein/reinforz)
 4. 🗣 Commented on [#1](https://github.com/Devorein/reinforz/issues/1) in [Devorein/reinforz](https://github.com/Devorein/reinforz)
 5. 🗣 Commented on [#2](https://github.com/Devorein/reinforz/issues/2) in [Devorein/reinforz](https://github.com/Devorein/reinforz)
