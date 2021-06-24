@@ -24,11 +24,11 @@ As far as my credentials I'm currently a "fullstack" web(P/MERNG) and mobile(RN)
 <h3><img height="20px" src="https://img.shields.io/badge/Framework-695b55"/></h3>
 <span><img src="https://img.shields.io/badge/-Apollo%20GraphQL-black?style=flat-square&amp;logo=Apollo%20GraphQL" alt="Apollo GraphQL"/></span>
 <span><img src="https://img.shields.io/badge/-Express-black?style=flat-square&amp;logo=Express" alt="Express"/></span>
+<span><img src="https://img.shields.io/badge/-Next-black?style=flat-square&amp;logo=Next" alt="Next"/></span>
 <span><img src="https://img.shields.io/badge/-Storybook-black?style=flat-square&amp;logo=Storybook" alt="Storybook"/></span>
 <hr>
 <h3><img height="20px" src="https://img.shields.io/badge/Language-467870"/></h3>
 <span><img src="https://img.shields.io/badge/-Bash-black?style=flat-square&amp;logo=Bash" alt="Bash"/></span>
-<span><img src="https://img.shields.io/badge/-Dart-black?style=flat-square&amp;logo=Dart" alt="Dart"/></span>
 <span><img src="https://img.shields.io/badge/-Go-black?style=flat-square&amp;logo=Go" alt="Go"/></span>
 <span><img src="https://img.shields.io/badge/-Python-black?style=flat-square&amp;logo=Python" alt="Python"/></span>
 <span><img src="https://img.shields.io/badge/-Sass-black?style=flat-square&amp;logo=Sass" alt="Sass"/></span>
@@ -39,6 +39,7 @@ As far as my credentials I'm currently a "fullstack" web(P/MERNG) and mobile(RN)
 <span><img src="https://img.shields.io/badge/-Babel-black?style=flat-square&amp;logo=Babel" alt="Babel"/></span>
 <span><img src="https://img.shields.io/badge/-Eslint-black?style=flat-square&amp;logo=Eslint" alt="Eslint"/></span>
 <span><img src="https://img.shields.io/badge/-Formik-black?style=flat-square&amp;logo=Formik" alt="Formik"/></span>
+<span><img src="https://img.shields.io/badge/-Jest-black?style=flat-square&amp;logo=Jest" alt="Jest"/></span>
 <span><img src="https://img.shields.io/badge/-Material%20UI-black?style=flat-square&amp;logo=Material%20UI" alt="Material UI"/></span>
 <span><img src="https://img.shields.io/badge/-Mongoose-black?style=flat-square&amp;logo=Mongoose" alt="Mongoose"/></span>
 <span><img src="https://img.shields.io/badge/-React-black?style=flat-square&amp;logo=React" alt="React"/></span>
@@ -56,6 +57,7 @@ As far as my credentials I'm currently a "fullstack" web(P/MERNG) and mobile(RN)
 <span><img src="https://img.shields.io/badge/-Git-black?style=flat-square&amp;logo=Git" alt="Git"/></span>
 <span><img src="https://img.shields.io/badge/-Github%20Actions-black?style=flat-square&amp;logo=Github%20Actions" alt="Github Actions"/></span>
 <span><img src="https://img.shields.io/badge/-Postman-black?style=flat-square&amp;logo=Postman" alt="Postman"/></span>
+<span><img src="https://img.shields.io/badge/-Vscode-black?style=flat-square&amp;logo=Vscode" alt="Vscode"/></span>
 <hr>
 <!--END_SECTION:learn-->
 
