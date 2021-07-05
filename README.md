@@ -24,7 +24,7 @@ As far as my credentials I'm currently a "fullstack" web(P/MERNG) and mobile(RN)
 <h3><img height="20px" src="https://img.shields.io/badge/Framework-695b55"/></h3>
 <span><img src="https://img.shields.io/badge/-Apollo%20GraphQL-black?style=flat-square&amp;logo=Apollo%20GraphQL" alt="Apollo GraphQL"/></span>
 <span><img src="https://img.shields.io/badge/-Express-black?style=flat-square&amp;logo=Express" alt="Express"/></span>
-<span><img src="https://img.shields.io/badge/-Next-black?style=flat-square&amp;logo=Next" alt="Next"/></span>
+<span><img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&amp;logo=Next.js" alt="Next.js"/></span>
 <span><img src="https://img.shields.io/badge/-Storybook-black?style=flat-square&amp;logo=Storybook" alt="Storybook"/></span>
 <hr>
 <h3><img height="20px" src="https://img.shields.io/badge/Language-467870"/></h3>
@@ -48,7 +48,7 @@ As far as my credentials I'm currently a "fullstack" web(P/MERNG) and mobile(RN)
 <span><img src="https://img.shields.io/badge/-Webpack-black?style=flat-square&amp;logo=Webpack" alt="Webpack"/></span>
 <hr>
 <h3><img height="20px" src="https://img.shields.io/badge/Platforms-487088"/></h3>
-<span><img src="https://img.shields.io/badge/-Digital%20Ocean-black?style=flat-square&amp;logo=Digital%20Ocean" alt="Digital Ocean"/></span>
+<span><img src="https://img.shields.io/badge/-DigitalOcean-black?style=flat-square&amp;logo=DigitalOcean" alt="DigitalOcean"/></span>
 <span><img src="https://img.shields.io/badge/-Netlify-black?style=flat-square&amp;logo=Netlify" alt="Netlify"/></span>
 <span><img src="https://img.shields.io/badge/-Vercel-black?style=flat-square&amp;logo=Vercel" alt="Vercel"/></span>
 <hr>
@@ -57,7 +57,7 @@ As far as my credentials I'm currently a "fullstack" web(P/MERNG) and mobile(RN)
 <span><img src="https://img.shields.io/badge/-Git-black?style=flat-square&amp;logo=Git" alt="Git"/></span>
 <span><img src="https://img.shields.io/badge/-Github%20Actions-black?style=flat-square&amp;logo=Github%20Actions" alt="Github Actions"/></span>
 <span><img src="https://img.shields.io/badge/-Postman-black?style=flat-square&amp;logo=Postman" alt="Postman"/></span>
-<span><img src="https://img.shields.io/badge/-Vscode-black?style=flat-square&amp;logo=Vscode" alt="Vscode"/></span>
+<span><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat-square&amp;logo=Visual%20Studio%20Code" alt="Visual Studio Code"/></span>
 <hr>
 <!--END_SECTION:learn-->
 
