@@ -44,6 +44,7 @@ As far as my credentials I'm currently a "fullstack" web(P/MERNG) and mobile(RN)
 <span><img src="https://img.shields.io/badge/-Mongoose-black?style=flat-square&amp;logo=Mongoose" alt="Mongoose"/></span>
 <span><img src="https://img.shields.io/badge/-React-black?style=flat-square&amp;logo=React" alt="React"/></span>
 <span><img src="https://img.shields.io/badge/-Redux-black?style=flat-square&amp;logo=Redux" alt="Redux"/></span>
+<span><img src="https://img.shields.io/badge/-Tailwindcss-black?style=flat-square&amp;logo=Tailwindcss" alt="Tailwindcss"/></span>
 <span><img src="https://img.shields.io/badge/-Typeorm-black?style=flat-square&amp;logo=Typeorm" alt="Typeorm"/></span>
 <span><img src="https://img.shields.io/badge/-Webpack-black?style=flat-square&amp;logo=Webpack" alt="Webpack"/></span>
 <hr>
