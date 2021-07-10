@@ -17,6 +17,7 @@ As far as my credentials I'm currently a "fullstack" web(P/MERNG) and mobile(RN)
 
 <!--START_SECTION:learn-->
 <h3><img height="20px" src="https://img.shields.io/badge/Database-979a9b"/></h3>
+<span><img src="https://img.shields.io/badge/-Firestore-black?style=flat-square&amp;logo=Firestore" alt="Firestore"/></span>
 <span><img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&amp;logo=MongoDB" alt="MongoDB"/></span>
 <span><img src="https://img.shields.io/badge/-Postgresql-black?style=flat-square&amp;logo=Postgresql" alt="Postgresql"/></span>
 <span><img src="https://img.shields.io/badge/-Redis-black?style=flat-square&amp;logo=Redis" alt="Redis"/></span>
