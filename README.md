@@ -17,7 +17,6 @@ As far as my credentials I'm currently a "fullstack" web(P/MERNG) and mobile(RN)
 
 <!--START_SECTION:learn-->
 <h3><img height="20px" src="https://img.shields.io/badge/Database-979a9b"/></h3>
-<span><img src="https://img.shields.io/badge/-Firestore-black?style=flat-square&amp;logo=Firestore" alt="Firestore"/></span>
 <span><img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&amp;logo=MongoDB" alt="MongoDB"/></span>
 <span><img src="https://img.shields.io/badge/-Postgresql-black?style=flat-square&amp;logo=Postgresql" alt="Postgresql"/></span>
 <span><img src="https://img.shields.io/badge/-Redis-black?style=flat-square&amp;logo=Redis" alt="Redis"/></span>
@@ -51,6 +50,7 @@ As far as my credentials I'm currently a "fullstack" web(P/MERNG) and mobile(RN)
 <hr>
 <h3><img height="20px" src="https://img.shields.io/badge/Platforms-487088"/></h3>
 <span><img src="https://img.shields.io/badge/-DigitalOcean-black?style=flat-square&amp;logo=DigitalOcean" alt="DigitalOcean"/></span>
+<span><img src="https://img.shields.io/badge/-Firebase-black?style=flat-square&amp;logo=Firebase" alt="Firebase"/></span>
 <span><img src="https://img.shields.io/badge/-Netlify-black?style=flat-square&amp;logo=Netlify" alt="Netlify"/></span>
 <span><img src="https://img.shields.io/badge/-Vercel-black?style=flat-square&amp;logo=Vercel" alt="Vercel"/></span>
 <hr>
