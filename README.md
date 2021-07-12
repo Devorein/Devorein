@@ -50,12 +50,13 @@ As far as my credentials I'm currently a "fullstack" web(P/MERNG) and mobile(RN)
 <hr>
 <h3><img height="20px" src="https://img.shields.io/badge/Platforms-487088"/></h3>
 <span><img src="https://img.shields.io/badge/-DigitalOcean-black?style=flat-square&amp;logo=DigitalOcean" alt="DigitalOcean"/></span>
+<span><img src="https://img.shields.io/badge/-Docker-black?style=flat-square&amp;logo=Docker" alt="Docker"/></span>
 <span><img src="https://img.shields.io/badge/-Firebase-black?style=flat-square&amp;logo=Firebase" alt="Firebase"/></span>
 <span><img src="https://img.shields.io/badge/-Netlify-black?style=flat-square&amp;logo=Netlify" alt="Netlify"/></span>
 <span><img src="https://img.shields.io/badge/-Vercel-black?style=flat-square&amp;logo=Vercel" alt="Vercel"/></span>
 <hr>
 <h3><img height="20px" src="https://img.shields.io/badge/Tools-6c598f"/></h3>
-<span><img src="https://img.shields.io/badge/-Docker-black?style=flat-square&amp;logo=Docker" alt="Docker"/></span>
+<span><img src="https://img.shields.io/badge/-Figma-black?style=flat-square&amp;logo=Figma" alt="Figma"/></span>
 <span><img src="https://img.shields.io/badge/-Git-black?style=flat-square&amp;logo=Git" alt="Git"/></span>
 <span><img src="https://img.shields.io/badge/-Github%20Actions-black?style=flat-square&amp;logo=Github%20Actions" alt="Github Actions"/></span>
 <span><img src="https://img.shields.io/badge/-Postman-black?style=flat-square&amp;logo=Postman" alt="Postman"/></span>
