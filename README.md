@@ -52,6 +52,7 @@ As far as my credentials I'm currently a "fullstack" web(P/MERNG) and mobile(RN)
 <span><img src="https://img.shields.io/badge/-DigitalOcean-black?style=flat-square&amp;logo=DigitalOcean" alt="DigitalOcean"/></span>
 <span><img src="https://img.shields.io/badge/-Docker-black?style=flat-square&amp;logo=Docker" alt="Docker"/></span>
 <span><img src="https://img.shields.io/badge/-Firebase-black?style=flat-square&amp;logo=Firebase" alt="Firebase"/></span>
+<span><img src="https://img.shields.io/badge/-Heroku-black?style=flat-square&amp;logo=Heroku" alt="Heroku"/></span>
 <span><img src="https://img.shields.io/badge/-Netlify-black?style=flat-square&amp;logo=Netlify" alt="Netlify"/></span>
 <span><img src="https://img.shields.io/badge/-Vercel-black?style=flat-square&amp;logo=Vercel" alt="Vercel"/></span>
 <hr>
