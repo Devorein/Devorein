@@ -176,10 +176,10 @@ As an avid notion user and a front end developer, I’ve always wanted to automa
 <summary>:zap: Recent Github Activities</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1366](https://github.com/firebase/firebase-admin-node/issues/1366) in [firebase/firebase-admin-node](https://github.com/firebase/firebase-admin-node)
-2. 🗣 Commented on [#1196](https://github.com/yargs/yargs/issues/1196) in [yargs/yargs](https://github.com/yargs/yargs)
-3. ❗️ Opened issue [#1983](https://github.com/yargs/yargs/issues/1983) in [yargs/yargs](https://github.com/yargs/yargs)
-4. 💪 Opened PR [#10](https://github.com/redislabs-training/ru102js/pull/10) in [redislabs-training/ru102js](https://github.com/redislabs-training/ru102js)
+1. ❗️ Opened issue [#1566](https://github.com/googleapis/nodejs-firestore/issues/1566) in [googleapis/nodejs-firestore](https://github.com/googleapis/nodejs-firestore)
+2. ❗️ Opened issue [#1366](https://github.com/firebase/firebase-admin-node/issues/1366) in [firebase/firebase-admin-node](https://github.com/firebase/firebase-admin-node)
+3. 🗣 Commented on [#1196](https://github.com/yargs/yargs/issues/1196) in [yargs/yargs](https://github.com/yargs/yargs)
+4. ❗️ Opened issue [#1983](https://github.com/yargs/yargs/issues/1983) in [yargs/yargs](https://github.com/yargs/yargs)
 5. 🎉 Merged PR [#5](https://github.com/Devorein/reinforz/pull/5) in [Devorein/reinforz](https://github.com/Devorein/reinforz)
 <!--END_SECTION:activity-->
 
