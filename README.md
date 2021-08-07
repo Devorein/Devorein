@@ -178,8 +178,8 @@ As an avid notion user and a front end developer, I’ve always wanted to automa
 <summary>:zap: Recent Github Activities</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1566](https://github.com/googleapis/nodejs-firestore/issues/1566) in [googleapis/nodejs-firestore](https://github.com/googleapis/nodejs-firestore)
-2. ❗️ Opened issue [#1366](https://github.com/firebase/firebase-admin-node/issues/1366) in [firebase/firebase-admin-node](https://github.com/firebase/firebase-admin-node)
+1. 🎉 Merged PR [#370](https://github.com/Devorein/Nishan/pull/370) in [Devorein/Nishan](https://github.com/Devorein/Nishan)
+2. ❗️ Opened issue [#1566](https://github.com/googleapis/nodejs-firestore/issues/1566) in [googleapis/nodejs-firestore](https://github.com/googleapis/nodejs-firestore)
 3. 🗣 Commented on [#1196](https://github.com/yargs/yargs/issues/1196) in [yargs/yargs](https://github.com/yargs/yargs)
 4. ❗️ Opened issue [#1983](https://github.com/yargs/yargs/issues/1983) in [yargs/yargs](https://github.com/yargs/yargs)
 5. 🎉 Merged PR [#5](https://github.com/Devorein/reinforz/pull/5) in [Devorein/reinforz](https://github.com/Devorein/reinforz)
