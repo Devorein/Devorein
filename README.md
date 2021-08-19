@@ -25,6 +25,7 @@ As far as my credentials I'm currently a "fullstack" web(P/MERNG) and mobile(RN)
 <span><img src="https://img.shields.io/badge/-Apollo%20GraphQL-black?style=flat-square&amp;logo=Apollo%20GraphQL" alt="Apollo GraphQL"/></span>
 <span><img src="https://img.shields.io/badge/-Express-black?style=flat-square&amp;logo=Express" alt="Express"/></span>
 <span><img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&amp;logo=Next.js" alt="Next.js"/></span>
+<span><img src="https://img.shields.io/badge/-React%20Native-black?style=flat-square&amp;logo=React%20Native" alt="React Native"/></span>
 <span><img src="https://img.shields.io/badge/-Storybook-black?style=flat-square&amp;logo=Storybook" alt="Storybook"/></span>
 <span><img src="https://img.shields.io/badge/-Vue.js-black?style=flat-square&amp;logo=Vue.js" alt="Vue.js"/></span>
 <hr>
