@@ -182,11 +182,11 @@ As an avid notion user and a front end developer, I’ve always wanted to automa
 <summary>:zap: Recent Github Activities</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#342](https://github.com/diegomura/react-pdf/issues/342) in [diegomura/react-pdf](https://github.com/diegomura/react-pdf)
-2. ❗️ Closed issue [#2](https://github.com/Devorein/reinforz/issues/2) in [Devorein/reinforz](https://github.com/Devorein/reinforz)
-3. 🎉 Merged PR [#370](https://github.com/Devorein/Nishan/pull/370) in [Devorein/Nishan](https://github.com/Devorein/Nishan)
-4. ❗️ Opened issue [#1983](https://github.com/yargs/yargs/issues/1983) in [yargs/yargs](https://github.com/yargs/yargs)
-5. 🎉 Merged PR [#5](https://github.com/Devorein/reinforz/pull/5) in [Devorein/reinforz](https://github.com/Devorein/reinforz)
+1. ❗️ Closed issue [#23](https://github.com/qbunt/romans/issues/23) in [qbunt/romans](https://github.com/qbunt/romans)
+2. 🗣 Commented on [#23](https://github.com/qbunt/romans/issues/23) in [qbunt/romans](https://github.com/qbunt/romans)
+3. ❗️ Opened issue [#23](https://github.com/qbunt/romans/issues/23) in [qbunt/romans](https://github.com/qbunt/romans)
+4. 🗣 Commented on [#342](https://github.com/diegomura/react-pdf/issues/342) in [diegomura/react-pdf](https://github.com/diegomura/react-pdf)
+5. ❗️ Closed issue [#2](https://github.com/Devorein/reinforz/issues/2) in [Devorein/reinforz](https://github.com/Devorein/reinforz)
 <!--END_SECTION:activity-->
 
 </details>
