@@ -7,9 +7,9 @@
 
 As far as my credentials I'm currently a "fullstack" web(P/MERNG), mobile(RN) and blockchain(Ethereum) developer, trying my best to keep up with the upcoming technologies and mastering the existing ones.
 
-- 🔭 I’m currently working on ... [Reinforz](https://github.com/Devorein/Reinforz)
-- 🌱 I’m currently learning ... Redis, Docker, React Native, Storybook and Bash from top to bottom without any gaps
-- 👯 I’m looking to collaborate on ... Any ambitious P/MERN/G or React Native Project
+- 🔭 I’m currently working on ... [Notion Renderer](https://github.com/Devorein/Reinforz)
+- 🌱 I’m currently learning ... Redis, Docker, React Native, Go and Solidity from top to bottom without any gaps
+- 👯 I’m looking to collaborate on ... Any ambitious P/MERN/G, React Native or Blockchain Project
 - 💬 Ask me about ...Web and Mobile Development, Fitness, UFC, MMA, Solo leveling and Liverpool FC 
 - ⚡ Fun fact: ... I'm a proud AroAce (Aromantic & Asexual) 🟢⚫🟣 ;D
 
