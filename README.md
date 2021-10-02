@@ -5,7 +5,7 @@
 <p><em>A second year undergrad student at <a href="https://www.bracu.ac.bd/">BRAC University</a>, majoring in Computer Science and Engineering.</br>
 </em></p>
 
-As far as my credentials I'm currently a "fullstack" web(P/MERNG) and mobile(RN) developer, trying my best to keep up with the upcoming technologies and mastering the existing ones.
+As far as my credentials I'm currently a "fullstack" web(P/MERNG), mobile(RN) and blockchain(Ethereum) developer, trying my best to keep up with the upcoming technologies and mastering the existing ones.
 
 - 🔭 I’m currently working on ... [Reinforz](https://github.com/Devorein/Reinforz)
 - 🌱 I’m currently learning ... Redis, Docker, React Native, Storybook and Bash from top to bottom without any gaps
