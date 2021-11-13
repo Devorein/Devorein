@@ -190,11 +190,11 @@ As an avid notion user and a front end developer, I’ve always wanted to automa
 <summary>:zap: Recent Github Activities</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#23](https://github.com/qbunt/romans/issues/23) in [qbunt/romans](https://github.com/qbunt/romans)
-2. 🗣 Commented on [#23](https://github.com/qbunt/romans/issues/23) in [qbunt/romans](https://github.com/qbunt/romans)
-3. ❗️ Opened issue [#23](https://github.com/qbunt/romans/issues/23) in [qbunt/romans](https://github.com/qbunt/romans)
-4. 🗣 Commented on [#342](https://github.com/diegomura/react-pdf/issues/342) in [diegomura/react-pdf](https://github.com/diegomura/react-pdf)
-5. ❗️ Closed issue [#2](https://github.com/Devorein/reinforz/issues/2) in [Devorein/reinforz](https://github.com/Devorein/reinforz)
+1. ❗️ Opened issue [#9](https://github.com/Devorein/fauton/issues/9) in [Devorein/fauton](https://github.com/Devorein/fauton)
+2. ❗️ Opened issue [#8](https://github.com/Devorein/fauton/issues/8) in [Devorein/fauton](https://github.com/Devorein/fauton)
+3. ❗️ Opened issue [#7](https://github.com/Devorein/fauton/issues/7) in [Devorein/fauton](https://github.com/Devorein/fauton)
+4. ❗️ Opened issue [#6](https://github.com/Devorein/fauton/issues/6) in [Devorein/fauton](https://github.com/Devorein/fauton)
+5. ❗️ Opened issue [#5](https://github.com/Devorein/fauton/issues/5) in [Devorein/fauton](https://github.com/Devorein/fauton)
 <!--END_SECTION:activity-->
 
 </details>
