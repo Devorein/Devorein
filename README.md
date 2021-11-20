@@ -190,11 +190,11 @@ As an avid notion user and a front end developer, I’ve always wanted to automa
 <summary>:zap: Recent Github Activities</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#14](https://github.com/Devorein/fauton/issues/14) in [Devorein/fauton](https://github.com/Devorein/fauton)
-2. ❗️ Opened issue [#13](https://github.com/Devorein/fauton/issues/13) in [Devorein/fauton](https://github.com/Devorein/fauton)
-3. ❗️ Opened issue [#12](https://github.com/Devorein/fauton/issues/12) in [Devorein/fauton](https://github.com/Devorein/fauton)
-4. ❗️ Opened issue [#11](https://github.com/Devorein/fauton/issues/11) in [Devorein/fauton](https://github.com/Devorein/fauton)
-5. ❗️ Opened issue [#10](https://github.com/Devorein/fauton/issues/10) in [Devorein/fauton](https://github.com/Devorein/fauton)
+1. ❗️ Closed issue [#6](https://github.com/Devorein/fauton/issues/6) in [Devorein/fauton](https://github.com/Devorein/fauton)
+2. 🗣 Commented on [#6](https://github.com/Devorein/fauton/issues/6) in [Devorein/fauton](https://github.com/Devorein/fauton)
+3. ❗️ Closed issue [#8](https://github.com/Devorein/fauton/issues/8) in [Devorein/fauton](https://github.com/Devorein/fauton)
+4. 🗣 Commented on [#8](https://github.com/Devorein/fauton/issues/8) in [Devorein/fauton](https://github.com/Devorein/fauton)
+5. ❗️ Closed issue [#14](https://github.com/Devorein/fauton/issues/14) in [Devorein/fauton](https://github.com/Devorein/fauton)
 <!--END_SECTION:activity-->
 
 </details>
