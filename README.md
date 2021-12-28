@@ -190,8 +190,8 @@ As an avid notion user and a front end developer, I’ve always wanted to automa
 <summary>:zap: Recent Github Activities</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#17](https://github.com/Devorein/fauton/pull/17) in [Devorein/fauton](https://github.com/Devorein/fauton)
-2. 🗣 Commented on [#6](https://github.com/Devorein/fauton/issues/6) in [Devorein/fauton](https://github.com/Devorein/fauton)
+1. 🎉 Merged PR [#17](https://github.com/Devorein/fauton/pull/17) in [Devorein/fauton](https://github.com/Devorein/fauton)
+2. 💪 Opened PR [#17](https://github.com/Devorein/fauton/pull/17) in [Devorein/fauton](https://github.com/Devorein/fauton)
 3. ❗️ Closed issue [#8](https://github.com/Devorein/fauton/issues/8) in [Devorein/fauton](https://github.com/Devorein/fauton)
 4. 🗣 Commented on [#8](https://github.com/Devorein/fauton/issues/8) in [Devorein/fauton](https://github.com/Devorein/fauton)
 5. ❗️ Closed issue [#14](https://github.com/Devorein/fauton/issues/14) in [Devorein/fauton](https://github.com/Devorein/fauton)
