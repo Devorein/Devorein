@@ -2,7 +2,7 @@
 
 <h2 align="center">A little about me</h2>
 
-<p><em>Currently working as a Developer Intern at Atlas Authority LLC, Backend/DevOps Engineer at Stonks LLC. A second year undergrad student at <a href="https://www.bracu.ac.bd/">BRAC University</a>, majoring in Computer Science.</br>
+<p><em>Currently working as a Developer Intern at Atlas Authority LLC, Backend/DevOps Engineer at Stonks LLC. A third year undergrad student at <a href="https://www.bracu.ac.bd/">BRAC University</a>, majoring in Computer Science.</br>
 </em></p>
 
 As far as my credentials I'm currently a "fullstack" web(P/MERNG), mobile(React Native) and blockchain(Ethereum+Solidity+Truffle) developer, trying my best to keep up with the upcoming technologies and mastering the existing ones.
@@ -10,7 +10,7 @@ As far as my credentials I'm currently a "fullstack" web(P/MERNG), mobile(React 
 - 🔭 I’m currently working on ... [Fauton](https://github.com/Devorein/fauton)
 - 🌱 I’m currently learning ... Docker, Kubernetes, React Native, NLP, Hugging Face
 - 👯 I’m looking to collaborate on ... Any ambitious P/MERN/G, React Native, Blockchain or NLP Project
-- 💬 Ask me about ...Web and Mobile Development, Fitness, UFC, MMA, Solo leveling and Liverpool FC 
+- 💬 Ask me about ...Web and Mobile Development, DevOps, Fitness, UFC, MMA, Solo leveling and Liverpool FC 
 - ⚡ Fun fact: ... I'm a proud AroAce (Aromantic & Asexual) 🟢⚫🟣 ;D
 
 <h2 align="center">Detail of my current knowledge</h2>
