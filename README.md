@@ -190,10 +190,10 @@ As an avid notion user and a front end developer, I’ve always wanted to automa
 <summary>:zap: Recent Github Activities</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#168](https://github.com/Devorein/BUPD/pull/168) in [Devorein/BUPD](https://github.com/Devorein/BUPD)
-2. 💪 Opened PR [#4](https://github.com/charmverse/app.charmverse.io/pull/4) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
-3. ❗️ Closed issue [#1](https://github.com/arionrefat/Hamim_Resting_Place/issues/1) in [arionrefat/Hamim_Resting_Place](https://github.com/arionrefat/Hamim_Resting_Place)
-4. 🎉 Merged PR [#17](https://github.com/Devorein/fauton/pull/17) in [Devorein/fauton](https://github.com/Devorein/fauton)
+1. 🗣 Commented on [#5](https://github.com/charmverse/app.charmverse.io/issues/5) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
+2. 💪 Opened PR [#5](https://github.com/charmverse/app.charmverse.io/pull/5) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
+3. 🎉 Merged PR [#168](https://github.com/Devorein/BUPD/pull/168) in [Devorein/BUPD](https://github.com/Devorein/BUPD)
+4. 💪 Opened PR [#4](https://github.com/charmverse/app.charmverse.io/pull/4) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
 5. 💪 Opened PR [#17](https://github.com/Devorein/fauton/pull/17) in [Devorein/fauton](https://github.com/Devorein/fauton)
 <!--END_SECTION:activity-->
 
