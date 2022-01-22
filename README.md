@@ -61,7 +61,7 @@ As far as my credentials I'm currently a "fullstack" web(P/MERNG), mobile(React 
 <span><img src="https://img.shields.io/badge/-Github%20Actions-black?style=flat-square&amp;logo=Github%20Actions" alt="Github Actions"/></span>
 <span><img src="https://img.shields.io/badge/-Heroku-black?style=flat-square&amp;logo=Heroku" alt="Heroku"/></span>
 <span><img src="https://img.shields.io/badge/-Netlify-black?style=flat-square&amp;logo=Netlify" alt="Netlify"/></span>
-<span><img src="https://img.shields.io/badge/-Terraform-6c598f?style=flat-square&amp;logo=Terraform" alt="Terraform"/></span>
+<span><img src="https://img.shields.io/badge/-Terraform-black?style=flat-square&amp;logo=data:image/svg%2Bxml;base64,PHN2ZyBmaWxsPSIjN0I0MkJDIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+VGVycmFmb3JtPC90aXRsZT48cGF0aCBkPSJNMS40NCAwdjcuNTc1bDYuNTYxIDMuNzlWMy43ODd6bTIxLjEyIDQuMjI3bC02LjU2MSAzLjc5MXY3LjU3NGw2LjU2LTMuNzg3ek04LjcyIDQuMjN2Ny41NzVsNi41NjEgMy43ODdWOC4wMTh6bTAgOC40MDV2Ny41NzVMMTUuMjggMjR2LTcuNTc4eiIvPjwvc3ZnPg==" alt="Terraform"/></span>
 <span><img src="https://img.shields.io/badge/-Vercel-black?style=flat-square&amp;logo=Vercel" alt="Vercel"/></span>
 <hr>
 <h3><img height="20px" src="https://img.shields.io/badge/Tools-6c598f"/></h3>
