@@ -18,7 +18,7 @@ As far as my credentials I'm currently a "fullstack" web(P/MERNG), mobile(React 
 <!--START_SECTION:learn-->
 <h3><img height="20px" src="https://img.shields.io/badge/Database-979a9b"/></h3>
 <span><img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&amp;logo=MongoDB" alt="MongoDB"/></span>
-<span><img src="https://img.shields.io/badge/-Postgresql-black?style=flat-square&amp;logo=Postgresql" alt="Postgresql"/></span>
+<span><img src="https://img.shields.io/badge/-Postgresql-black?style=flat-square&amp;logo=data:image/svg%2Bxml;base64," alt="Postgresql"/></span>
 <span><img src="https://img.shields.io/badge/-Redis-black?style=flat-square&amp;logo=Redis" alt="Redis"/></span>
 <hr>
 <h3><img height="20px" src="https://img.shields.io/badge/Framework-695b55"/></h3>
@@ -32,7 +32,7 @@ As far as my credentials I'm currently a "fullstack" web(P/MERNG), mobile(React 
 <span><img src="https://img.shields.io/badge/-Vue.js-black?style=flat-square&amp;logo=Vue.js" alt="Vue.js"/></span>
 <hr>
 <h3><img height="20px" src="https://img.shields.io/badge/Language-467870"/></h3>
-<span><img src="https://img.shields.io/badge/-Bash-black?style=flat-square&amp;logo=Bash" alt="Bash"/></span>
+<span><img src="https://img.shields.io/badge/-Bash-black?style=flat-square&amp;logo=data:image/svg%2Bxml;base64," alt="Bash"/></span>
 <span><img src="https://img.shields.io/badge/-Go-black?style=flat-square&amp;logo=Go" alt="Go"/></span>
 <span><img src="https://img.shields.io/badge/-Python-black?style=flat-square&amp;logo=Python" alt="Python"/></span>
 <span><img src="https://img.shields.io/badge/-SQL-black?style=flat-square&amp;logo=SQL" alt="SQL"/></span>
@@ -41,13 +41,12 @@ As far as my credentials I'm currently a "fullstack" web(P/MERNG), mobile(React 
 <span><img src="https://img.shields.io/badge/-Typescript-black?style=flat-square&amp;logo=Typescript" alt="Typescript"/></span>
 <hr>
 <h3><img height="20px" src="https://img.shields.io/badge/Library-505558"/></h3>
-<span><img src="https://img.shields.io/badge/-Axios-black?style=flat-square&amp;logo=Axios" alt="Axios"/></span>
 <span><img src="https://img.shields.io/badge/-Babel-black?style=flat-square&amp;logo=Babel" alt="Babel"/></span>
-<span><img src="https://img.shields.io/badge/-Eslint-black?style=flat-square&amp;logo=Eslint" alt="Eslint"/></span>
+<span><img src="https://img.shields.io/badge/-Eslint-black?style=flat-square&amp;logo=data:image/svg%2Bxml;base64," alt="Eslint"/></span>
 <span><img src="https://img.shields.io/badge/-Formik-black?style=flat-square&amp;logo=Formik" alt="Formik"/></span>
 <span><img src="https://img.shields.io/badge/-Mongoose-black?style=flat-square&amp;logo=Mongoose" alt="Mongoose"/></span>
 <span><img src="https://img.shields.io/badge/-React-black?style=flat-square&amp;logo=React" alt="React"/></span>
-<span><img src="https://img.shields.io/badge/-React%20Query-black?style=flat-square&amp;logo=React%20Query" alt="React Query"/></span>
+<span><img src="https://img.shields.io/badge/-React%20Query-black?style=flat-square&amp;logo=data:image/svg%2Bxml;base64," alt="React Query"/></span>
 <span><img src="https://img.shields.io/badge/-Redux-black?style=flat-square&amp;logo=Redux" alt="Redux"/></span>
 <span><img src="https://img.shields.io/badge/-Snowpack-black?style=flat-square&amp;logo=Snowpack" alt="Snowpack"/></span>
 <span><img src="https://img.shields.io/badge/-Tailwindcss-black?style=flat-square&amp;logo=Tailwindcss" alt="Tailwindcss"/></span>
@@ -69,7 +68,7 @@ As far as my credentials I'm currently a "fullstack" web(P/MERNG), mobile(React 
 <span><img src="https://img.shields.io/badge/-Git-black?style=flat-square&amp;logo=Git" alt="Git"/></span>
 <span><img src="https://img.shields.io/badge/-Notion-black?style=flat-square&amp;logo=Notion" alt="Notion"/></span>
 <span><img src="https://img.shields.io/badge/-Postman-black?style=flat-square&amp;logo=Postman" alt="Postman"/></span>
-<span><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat-square&amp;logo=Visual%20Studio%20Code" alt="Visual Studio Code"/></span>
+<span><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat-square&amp;logo=data:image/svg%2Bxml;base64," alt="Visual Studio Code"/></span>
 <hr>
 <!--END_SECTION:learn-->
 
