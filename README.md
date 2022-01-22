@@ -2,7 +2,7 @@
 
 <h2 align="center">A little about me</h2>
 
-<p><em>Currently working as a Developer Intern at Atlas Authority LLC, Backend/DevOps Engineer at Stonks LLC. A third year undergrad student at <a href="https://www.bracu.ac.bd/">BRAC University</a>, majoring in Computer Science.</br>
+<p><em>Currently working as a Software Engineer at Charmverse, Developer Intern at Atlas Authority LLC, Backend/DevOps Engineer at Stonks LLC. A third year undergrad student at <a href="https://www.bracu.ac.bd/">BRAC University</a>, majoring in Computer Science.</br>
 </em></p>
 
 As far as my credentials I'm currently a "fullstack" web(P/MERNG), mobile(React Native) and blockchain(Ethereum+Solidity+Truffle) developer, trying my best to keep up with the upcoming technologies and mastering the existing ones.
