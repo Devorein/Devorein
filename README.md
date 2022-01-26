@@ -5,15 +5,15 @@
 <p><em>Currently working as a Software Engineer at Charmverse, Developer Intern at Atlas Authority LLC, Backend/DevOps Engineer at Stonks LLC. A third year undergrad student at <a href="https://www.bracu.ac.bd/">BRAC University</a>, majoring in Computer Science.</br>
 </em></p>
 
-As far as my credentials I'm currently a "fullstack" web(P/MERNG), mobile(React Native) and blockchain(Ethereum+Solidity+Truffle) developer, trying my best to keep up with the upcoming technologies and mastering the existing ones.
+As far as my credentials I'm immersed in "Full-stack" web (P/MERNG), mobile (React Native), blockchain (Ethereum+Solidity+Truffle), DevOps (Docker, Kubernetes, Github Actions), Cloud (AWS, GCP, DigitalOcean) and NLP (Natural Language Processing), trying my best to keep up with the upcoming technologies and mastering the existing ones.
 
 - 🔭 I’m currently working on ... [Fauton](https://github.com/Devorein/fauton)
 - 🌱 I’m currently learning ... Docker, Kubernetes, React Native, NLP, Hugging Face
 - 👯 I’m looking to collaborate on ... Any ambitious P/MERN/G, React Native, Blockchain or NLP Project
 - 💬 Ask me about ...Web and Mobile Development, DevOps, Fitness, UFC, MMA, Solo leveling and Liverpool FC 
-- ⚡ Fun fact: ... I'm a proud AroAce (Aromantic & Asexual) 🟢⚫🟣 ;D
+- ⚡ Fun fact: ... I'm a proud aromantic & asexual 🟢⚫🟣 😃
 
-<h2 align="center">What I know so far</h2>
+<h2 align="center">Current Knowledge</h2>
 
 <!--START_SECTION:learn-->
 <h3><img height="20px" src="https://img.shields.io/badge/Database-979a9b"/></h3>
