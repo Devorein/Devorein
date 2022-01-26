@@ -13,7 +13,7 @@ As far as my credentials I'm currently a "fullstack" web(P/MERNG), mobile(React 
 - 💬 Ask me about ...Web and Mobile Development, DevOps, Fitness, UFC, MMA, Solo leveling and Liverpool FC 
 - ⚡ Fun fact: ... I'm a proud AroAce (Aromantic & Asexual) 🟢⚫🟣 ;D
 
-<h2 align="center">Detail of my current knowledge</h2>
+<h2 align="center">What I know so far</h2>
 
 <!--START_SECTION:learn-->
 <h3><img height="20px" src="https://img.shields.io/badge/Database-979a9b"/></h3>
