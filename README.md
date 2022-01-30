@@ -15,6 +15,8 @@ Fully immersed in "Full-stack" web (P/MERNG), mobile (React Native), blockchain 
 
 <h2 align="center">Current Knowledge</h2>
 
+**NOTE:** Below is a list of tools/languages/libraries/frameworks that I've used in atleast one of my projects or work. It doesn't mean I know everything about them but have first hand experience and is comfortable using them.
+
 <!--START_SECTION:learn-->
 <h3><img height="20px" src="https://img.shields.io/badge/Database-979a9b"/></h3>
 <span><img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&amp;logo=MongoDB" alt="MongoDB"/></span>
