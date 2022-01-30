@@ -5,7 +5,7 @@
 <p><em>Currently working as a Software Engineer at Charmverse, Developer Intern at Atlas Authority LLC, Backend/DevOps Engineer at Stonks LLC. A third year undergrad student at <a href="https://www.bracu.ac.bd/">BRAC University</a>, majoring in Computer Science.</br>
 </em></p>
 
-As far as my credentials I'm immersed in "Full-stack" web (P/MERNG), mobile (React Native), blockchain (Ethereum+Solidity+Truffle), DevOps (Docker, Kubernetes, Github Actions), Cloud (AWS, GCP, DigitalOcean) and NLP (Natural Language Processing), trying my best to keep up with the upcoming technologies and mastering the existing ones.
+Fully immersed in "Full-stack" web (P/MERNG), mobile (React Native), blockchain (Ethereum+Solidity+Truffle), DevOps (Docker, Kubernetes, Github Actions), Cloud (AWS, GCP, DigitalOcean) and NLP (Natural Language Processing).
 
 - 🔭 I’m currently working on ... [Fauton](https://github.com/Devorein/fauton)
 - 🌱 I’m currently learning ... Docker, Kubernetes, React Native, NLP, Hugging Face
