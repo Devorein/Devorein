@@ -105,6 +105,9 @@ Fully immersed in "Full-stack" web (P/MERNG), mobile (React Native), blockchain 
   <a href="https://stackshare.io/devorein">
     <img src="https://cdn.worldvectorlogo.com/logos/stackshare.svg" alt="Devorein's StackShare Profile" height="30" width="30">
   </a>
+  <a href="https://www.datacamp.com/profile/devorein">
+    <img src="https://www.svgrepo.com/show/349332/datacamp.svg" alt="Devorein's Datacamp Profile" height="30" width="30"/>
+  </a>
   <a href="https://codesandbox.io/u/Devorein">
     <img src="https://www.saashub.com/images/app/service_logos/9/ae995212f366/large.png?1528180811" alt="Devorein's CodeSandbox Profile" height="30" width="30">
   </a> 
