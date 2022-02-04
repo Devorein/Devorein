@@ -2,7 +2,7 @@
 
 <h2 align="center">A little about me</h2>
 
-<p><em>Currently working as a Software Engineer at Charmverse, Developer Intern at Atlas Authority LLC, Backend/DevOps Engineer at Stonks LLC. A third year undergrad student at <a href="https://www.bracu.ac.bd/">BRAC University</a>, majoring in Computer Science.</br>
+<p><em>Currently working as a Software Engineer at Charmverse and Backend/DevOps Engineer at Stonks LLC. A third year undergrad student at <a href="https://www.bracu.ac.bd/">BRAC University</a>, majoring in Computer Science.</br>
 </em></p>
 
 Fully immersed in "Full-stack" web (P/MERNG), mobile (React Native), blockchain (Ethereum+Solidity+Truffle), DevOps (Docker, Kubernetes, Github Actions), Cloud (AWS, GCP, DigitalOcean) and NLP (Natural Language Processing).
