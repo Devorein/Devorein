@@ -132,6 +132,10 @@ Fully immersed in "Full-stack" web (P/MERNG), mobile (React Native), blockchain 
 </p>
 
 <div align="center">
+  <img src="https://wakatime.com/badge/user/fbd02073-3b9c-475f-b632-b80afe4b6394.svg" alt="Devorein's wakatime badge"/>
+</div>
+
+<div align="center">
   <img src="https://www.codewars.com/users/Devorein/badges/large" alt="Devorein's Codewars badge">
 </div>
 
