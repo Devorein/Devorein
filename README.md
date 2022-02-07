@@ -121,7 +121,7 @@ Fully immersed in "Full-stack" web (P/MERNG), mobile (React Native), blockchain 
     <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Devorein's YouTube Channel" height="30" width="30">
   </a>
   <a href="https://www.showwcase.com/devorein">
-    <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQEQ8GtXpihTlA/company-logo_200_200/0/1633746807779?e=2159024400&v=beta&t=6aaK_5kFj_tTy8OePDSbdeF0wvPPIJvQYYbK7hJ8q9g" alt="Devorein's Showwcase Profile" height="30" width="30"/>
+    <img src="https://ph-files.imgix.net/d1a35e06-ec86-4a7c-b0f0-b12684ce53c6.png?auto=format" alt="Devorein's Showwcase Profile" height="30" width="30"/>
   </a>
   <a href="https://www.producthunt.com/@devorein">
     <img src="https://www.vectorlogo.zone/logos/producthunt/producthunt-icon.svg" alt="Devorein's Producthunt Profile" height="30" width="30">
