@@ -9,7 +9,7 @@ Fully immersed in "Full-stack" web (P/MERNG), mobile (React Native), blockchain 
 
 - 🔭 I’m currently working on ... [Fauton](https://github.com/Devorein/fauton) and [Charmverse](https://github.com/charmverse/app.charmverse.io)
 - 🌱 I’m currently learning ... Docker, Kubernetes, React Native, NLP, Hugging Face
-- 👯 I’m looking to collaborate on ... Any ambitious P/MERN/G, React Native, Blockchain or NLP Project
+- 👯 I’m looking to collaborate on ... Any ambitious Web, Mobile, Blockchain, Data Science or NLP Project/Library
 - 💬 Ask me about ...Web and Mobile Development, DevOps, Fitness, UFC, MMA, Solo leveling and Liverpool FC 
 - ⚡ Fun fact: ... I'm a proud aromantic & asexual 🟢⚫🟣 😃
 
