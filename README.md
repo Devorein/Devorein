@@ -2,10 +2,9 @@
 
 <h2 align="center">A little about me</h2>
 
-<p><em>Currently working as a Software Engineer at Charmverse and Backend/DevOps Engineer at Stonks LLC. A third year undergrad student at <a href="https://www.bracu.ac.bd/">BRAC University</a>, majoring in Computer Science.</br>
-</em></p>
+I'm currently working as a Software Engineer at [Charmverse](https://www.charmverse.io/) and Backend/DevOps Engineer at [Stonks LLC](https://stonksllc.com/). I'm also a third-year undergrad student at [BRAC University](https://bracu.ac.bd/), majoring in Computer Science.
 
-Fully immersed in "Full-stack" web (P/MERNG), mobile (React Native), blockchain (Ethereum+Solidity+Truffle), DevOps (Docker, Kubernetes, Github Actions), Cloud (AWS, GCP, DigitalOcean) and NLP (Natural Language Processing).
+I'm fully immersed in Full-stack web (P/MERNG), mobile (React Native), blockchain (Ethereum+Solidity+Truffle), DevOps (Docker, Kubernetes, Github Actions), Cloud (AWS, GCP, DigitalOcean), Data Science (Numpy, Matplotlib, and Pandas) and NLP (Natural Language Processing).
 
 - 🔭 I’m currently working on ... [Fauton](https://github.com/Devorein/fauton) and [Charmverse](https://github.com/charmverse/app.charmverse.io)
 - 🌱 I’m currently learning ... Docker, Kubernetes, React Native, NLP, Hugging Face
