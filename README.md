@@ -198,11 +198,11 @@ As an avid notion user and a front end developer, I’ve always wanted to automa
 <summary>:zap: Recent Github Activities</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#78](https://github.com/charmverse/app.charmverse.io/pull/78) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
-2. 🎉 Merged PR [#1](https://github.com/Devorein/aisem/pull/1) in [Devorein/aisem](https://github.com/Devorein/aisem)
-3. 💪 Opened PR [#1](https://github.com/Devorein/aisem/pull/1) in [Devorein/aisem](https://github.com/Devorein/aisem)
-4. 🎉 Merged PR [#70](https://github.com/charmverse/app.charmverse.io/pull/70) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
-5. 💪 Opened PR [#71](https://github.com/charmverse/app.charmverse.io/pull/71) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
+1. 🎉 Merged PR [#2](https://github.com/Devorein/aisem/pull/2) in [Devorein/aisem](https://github.com/Devorein/aisem)
+2. 💪 Opened PR [#2](https://github.com/Devorein/aisem/pull/2) in [Devorein/aisem](https://github.com/Devorein/aisem)
+3. 🎉 Merged PR [#78](https://github.com/charmverse/app.charmverse.io/pull/78) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
+4. 💪 Opened PR [#78](https://github.com/charmverse/app.charmverse.io/pull/78) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
+5. 🎉 Merged PR [#1](https://github.com/Devorein/aisem/pull/1) in [Devorein/aisem](https://github.com/Devorein/aisem)
 <!--END_SECTION:activity-->
 
 </details>
