@@ -107,6 +107,9 @@ Fully immersed in Open Source, Full-stack web (P/MERNG), mobile (React Native), 
   <a href="https://www.datacamp.com/profile/devorein">
     <img src="https://www.svgrepo.com/show/349332/datacamp.svg" alt="Devorein's Datacamp Profile" height="30" width="30"/>
   </a>
+  <a href="https://tryhackme.com/p/devorein">
+    <img src="https://tryhackme.com/img/favicon.png" alt="Devorein's TryHackMe Profile" height="30" width="30"/>
+  </a>
   <a href="https://codesandbox.io/u/Devorein">
     <img src="https://www.saashub.com/images/app/service_logos/9/ae995212f366/large.png?1528180811" alt="Devorein's CodeSandbox Profile" height="30" width="30">
   </a> 
