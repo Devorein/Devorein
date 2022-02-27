@@ -7,14 +7,14 @@ I'm currently working as a Software Engineer at [Charmverse](https://www.charmve
 Fully immersed in Open Source, Full-stack web (P/MERNG), mobile (React Native), blockchain (Ethereum+Solidity+Truffle), DevOps (Docker, Kubernetes, Github Actions), Cloud (AWS, GCP, DigitalOcean), Data Science (Numpy, Matplotlib, Pandas and Seaborn) and NLP (Natural Language Processing).
 
 - 🔭 I’m currently working on ... [Fauton](https://github.com/Devorein/fauton) and [Charmverse](https://github.com/charmverse/app.charmverse.io)
-- 🌱 I’m currently learning ... Docker, Kubernetes, React Native, NLP, Hugging Face
+- 🌱 I’m currently learning ... Docker, Kubernetes, NGINX, Helm, Seaborn, Pandas, BURP Suite
 - 👯 I’m looking to collaborate on ... Any ambitious Web, Mobile, Blockchain, Data Science or NLP Project/Library
 - 💬 Ask me about ...Web and Mobile Development, DevOps, Fitness, UFC, MMA, Solo leveling and Liverpool FC 
 - ⚡ Fun fact: ... I'm a proud aromantic & asexual 🟢⚫🟣 😃
 
 <h2 align="center">Current Knowledge</h2>
 
-**NOTE:** Below is a list of things I've used in atleast one of my projects or work. It doesn't mean I know everything about them but have first hand experience and is comfortable using them.
+**NOTE:** Below is a list of things I've used in atleast one of my projects/work or learned at some point in my life. It doesn't mean I know everything about them but I do have first hand experience and is comfortable using them.
 
 <!--START_SECTION:learn-->
 <h3><img height="20px" src="https://img.shields.io/badge/Database-979a9b"/></h3>
