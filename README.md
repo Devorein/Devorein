@@ -10,7 +10,7 @@ Fully immersed in Open Source, Full-stack web (P/MERNG), mobile (React Native), 
 - 🌱 I’m currently learning ... Docker, Kubernetes, NGINX, Helm, Seaborn, Pandas, BURP Suite
 - 👯 I’m looking to collaborate on ... Any ambitious Web, Mobile, Blockchain, Data Science or NLP Project/Library
 - 💬 Ask me about ...Web and Mobile Development, DevOps, Fitness, UFC, MMA, Solo leveling and Liverpool FC 
-- ⚡ Fun fact: ... I'm a proud aromantic & asexual 🟢⚫🟣 😃
+- ⚡ Fun fact: ... I'm a proud [aromantic](https://en.wikipedia.org/wiki/Romantic_orientation#Aromanticism) & [asexual](https://en.wikipedia.org/wiki/Asexuality) 🟢⚫🟣 😃
 
 <h2 align="center">Current Knowledge</h2>
 
