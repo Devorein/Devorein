@@ -9,7 +9,7 @@ Fully immersed in Open Source, Full-stack web (P/MERNG), mobile (React Native), 
 - 🔭 I’m currently working on ... [Fauton](https://github.com/Devorein/fauton), [reinforz](https://github.com/Devorein/reinforz) and [Charmverse](https://github.com/charmverse/app.charmverse.io)
 - 🌱 I’m currently learning ... Docker, Kubernetes, Matplotlib, Seaborn, Pandas, BURP Suite
 - 👯 I’m looking to collaborate on ... Any ambitious Web, Mobile, Blockchain, Data Science or NLP Project/Library
-- 💬 Ask me about ...Web and Mobile Development, DevOps, Fitness, UFC, MMA, Solo leveling and Liverpool FC 
+- 💬 Ask me about ...Web and Mobile Development, DevOps, Data Science, Fitness, UFC, MMA, Solo leveling and Liverpool FC 
 - ⚡ Fun fact: ... I'm a proud [aromantic](https://en.wikipedia.org/wiki/Romantic_orientation#Aromanticism) & [asexual](https://en.wikipedia.org/wiki/Asexuality) 🟢⚫🟣 😃
 
 <h2 align="center">Current Knowledge</h2>
