@@ -2,7 +2,7 @@
 
 <h2 align="center">A little about me</h2>
 
-I'm currently working as a Software Engineer at [Charmverse](https://www.charmverse.io/) and Backend/DevOps Engineer at [Stonks LLC](https://stonksllc.com/). I'm also a third-year undergrad student at [BRAC University](https://bracu.ac.bd/), majoring in Computer Science.
+I'm currently working as a Software Engineer at [Charmverse](https://www.charmverse.io/). I'm also a third-year undergrad student at [BRAC University](https://bracu.ac.bd/), majoring in Computer Science.
 
 Fully immersed in Open Source, Full-stack web (P/MERNG), mobile (React Native), blockchain (Ethereum+Solidity+Truffle), DevOps (Docker, Kubernetes, Github Actions), Cloud (AWS, GCP, DigitalOcean), Data Science (Numpy, Matplotlib, Pandas and Seaborn) and NLP (Natural Language Processing).
 
