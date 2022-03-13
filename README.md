@@ -146,7 +146,11 @@ Fully immersed in Open Source, Full-stack web (P/MERNG), mobile (React Native), 
   <img src="https://www.codewars.com/users/Devorein/badges/large" alt="Devorein's Codewars badge">
 </div>
 
-
+<div align="center">
+  <a href="https://tryhackme.com/p/devorein">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/devorein.png" alt="TryHackMe">
+  </a>
+</div>
 
 <div align="center">
    <img src="https://stackoverflow.com/users/flair/9745104.png?theme=dark" alt="Devorein's Stackoverflow Badge"/>
