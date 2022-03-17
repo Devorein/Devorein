@@ -4,7 +4,7 @@
 
 I'm currently working as a Software Engineer at [Charmverse](https://www.charmverse.io/). I'm also a third-year undergrad student at [BRAC University](https://bracu.ac.bd/), majoring in Computer Science.
 
-Fully immersed in Open Source, Full-stack web (P/MERNG), mobile (React Native), blockchain (Ethereum+Solidity+Truffle), DevOps (Docker, Kubernetes, Github Actions), Cloud (AWS, GCP, DigitalOcean), Data Science (Numpy, Matplotlib, Pandas and Seaborn) and NLP (Natural Language Processing).
+Fully immersed in Open Source, Full-stack web (P/MERNG), mobile (React Native), blockchain (Ethereum+Solidity+Truffle), DevOps (Docker, Kubernetes, Github Actions), Cloud (AWS, GCP, DigitalOcean), Data Science (Numpy, Matplotlib, Pandas and Seaborn) and NLP (nltk).
 
 - 🔭 I’m currently working on ... [Fauton](https://github.com/Devorein/fauton), [reinforz](https://github.com/Devorein/reinforz) and [Charmverse](https://github.com/charmverse/app.charmverse.io)
 - 🌱 I’m currently learning ... Docker, Kubernetes, Matplotlib, Seaborn, Pandas, Numpy and BURP Suite
