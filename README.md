@@ -209,11 +209,11 @@ As an avid notion user and a front end developer, I’ve always wanted to automa
 <summary>:zap: Recent Github Activities</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#467](https://github.com/charmverse/app.charmverse.io/pull/467) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
-2. 🗣 Commented on [#471](https://github.com/charmverse/app.charmverse.io/issues/471) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
+1. 💪 Opened PR [#481](https://github.com/charmverse/app.charmverse.io/pull/481) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
+2. 🎉 Merged PR [#467](https://github.com/charmverse/app.charmverse.io/pull/467) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
 3. 🗣 Commented on [#471](https://github.com/charmverse/app.charmverse.io/issues/471) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
-4. 🎉 Merged PR [#475](https://github.com/charmverse/app.charmverse.io/pull/475) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
-5. 💪 Opened PR [#475](https://github.com/charmverse/app.charmverse.io/pull/475) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
+4. 🗣 Commented on [#471](https://github.com/charmverse/app.charmverse.io/issues/471) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
+5. 🎉 Merged PR [#475](https://github.com/charmverse/app.charmverse.io/pull/475) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
 <!--END_SECTION:activity-->
 
 </details>
