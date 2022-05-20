@@ -209,11 +209,11 @@ As an avid notion user and a front end developer, I’ve always wanted to automa
 <summary>:zap: Recent Github Activities</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#488](https://github.com/charmverse/app.charmverse.io/pull/488) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
-2. 💪 Opened PR [#488](https://github.com/charmverse/app.charmverse.io/pull/488) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
-3. 🎉 Merged PR [#487](https://github.com/charmverse/app.charmverse.io/pull/487) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
-4. 💪 Opened PR [#487](https://github.com/charmverse/app.charmverse.io/pull/487) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
-5. 🎉 Merged PR [#484](https://github.com/charmverse/app.charmverse.io/pull/484) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
+1. 🎉 Merged PR [#5](https://github.com/Devorein/comiter/pull/5) in [Devorein/comiter](https://github.com/Devorein/comiter)
+2. 💪 Opened PR [#5](https://github.com/Devorein/comiter/pull/5) in [Devorein/comiter](https://github.com/Devorein/comiter)
+3. 🎉 Merged PR [#4](https://github.com/Devorein/comiter/pull/4) in [Devorein/comiter](https://github.com/Devorein/comiter)
+4. 💪 Opened PR [#4](https://github.com/Devorein/comiter/pull/4) in [Devorein/comiter](https://github.com/Devorein/comiter)
+5. 🎉 Merged PR [#2](https://github.com/Devorein/comiter/pull/2) in [Devorein/comiter](https://github.com/Devorein/comiter)
 <!--END_SECTION:activity-->
 
 </details>
