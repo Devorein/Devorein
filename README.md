@@ -209,11 +209,11 @@ As an avid notion user and a front end developer, I’ve always wanted to automa
 <summary>:zap: Recent Github Activities</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#46](https://github.com/Devorein/fauton/pull/46) in [Devorein/fauton](https://github.com/Devorein/fauton)
-2. 💪 Opened PR [#46](https://github.com/Devorein/fauton/pull/46) in [Devorein/fauton](https://github.com/Devorein/fauton)
-3. 🎉 Merged PR [#45](https://github.com/Devorein/fauton/pull/45) in [Devorein/fauton](https://github.com/Devorein/fauton)
-4. 💪 Opened PR [#45](https://github.com/Devorein/fauton/pull/45) in [Devorein/fauton](https://github.com/Devorein/fauton)
-5. 🎉 Merged PR [#497](https://github.com/charmverse/app.charmverse.io/pull/497) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
+1. 🗣 Commented on [#495](https://github.com/charmverse/app.charmverse.io/issues/495) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
+2. 🎉 Merged PR [#46](https://github.com/Devorein/fauton/pull/46) in [Devorein/fauton](https://github.com/Devorein/fauton)
+3. 💪 Opened PR [#46](https://github.com/Devorein/fauton/pull/46) in [Devorein/fauton](https://github.com/Devorein/fauton)
+4. 🎉 Merged PR [#45](https://github.com/Devorein/fauton/pull/45) in [Devorein/fauton](https://github.com/Devorein/fauton)
+5. 💪 Opened PR [#45](https://github.com/Devorein/fauton/pull/45) in [Devorein/fauton](https://github.com/Devorein/fauton)
 <!--END_SECTION:activity-->
 
 </details>
