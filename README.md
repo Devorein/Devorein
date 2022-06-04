@@ -208,11 +208,11 @@ As an avid notion user and a front end developer, I’ve always wanted to automa
 <summary>:zap: Recent Github Activities</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/NLP-practitioners/reinforz/pull/14) in [NLP-practitioners/reinforz](https://github.com/NLP-practitioners/reinforz)
-2. 🎉 Merged PR [#558](https://github.com/charmverse/app.charmverse.io/pull/558) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
-3. 💪 Opened PR [#558](https://github.com/charmverse/app.charmverse.io/pull/558) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
-4. 💪 Opened PR [#557](https://github.com/charmverse/app.charmverse.io/pull/557) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
-5. 🎉 Merged PR [#555](https://github.com/charmverse/app.charmverse.io/pull/555) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
+1. 🎉 Merged PR [#16](https://github.com/NLP-practitioners/reinforz/pull/16) in [NLP-practitioners/reinforz](https://github.com/NLP-practitioners/reinforz)
+2. 🎉 Merged PR [#14](https://github.com/NLP-practitioners/reinforz/pull/14) in [NLP-practitioners/reinforz](https://github.com/NLP-practitioners/reinforz)
+3. 🎉 Merged PR [#558](https://github.com/charmverse/app.charmverse.io/pull/558) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
+4. 💪 Opened PR [#558](https://github.com/charmverse/app.charmverse.io/pull/558) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
+5. 💪 Opened PR [#557](https://github.com/charmverse/app.charmverse.io/pull/557) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
 <!--END_SECTION:activity-->
 
 </details>
