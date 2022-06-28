@@ -208,11 +208,11 @@ As an avid notion user and a front end developer, I’ve always wanted to automa
 <summary>:zap: Recent Github Activities</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/Devorein/discente/pull/8) in [Devorein/discente](https://github.com/Devorein/discente)
-2. 💪 Opened PR [#8](https://github.com/Devorein/discente/pull/8) in [Devorein/discente](https://github.com/Devorein/discente)
-3. 🎉 Merged PR [#7](https://github.com/Devorein/discente/pull/7) in [Devorein/discente](https://github.com/Devorein/discente)
-4. 💪 Opened PR [#7](https://github.com/Devorein/discente/pull/7) in [Devorein/discente](https://github.com/Devorein/discente)
-5. 🎉 Merged PR [#644](https://github.com/charmverse/app.charmverse.io/pull/644) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
+1. 💪 Opened PR [#114](https://github.com/NLP-practitioners/reinforz/pull/114) in [NLP-practitioners/reinforz](https://github.com/NLP-practitioners/reinforz)
+2. 🎉 Merged PR [#8](https://github.com/Devorein/discente/pull/8) in [Devorein/discente](https://github.com/Devorein/discente)
+3. 💪 Opened PR [#8](https://github.com/Devorein/discente/pull/8) in [Devorein/discente](https://github.com/Devorein/discente)
+4. 🎉 Merged PR [#7](https://github.com/Devorein/discente/pull/7) in [Devorein/discente](https://github.com/Devorein/discente)
+5. 💪 Opened PR [#7](https://github.com/Devorein/discente/pull/7) in [Devorein/discente](https://github.com/Devorein/discente)
 <!--END_SECTION:activity-->
 
 </details>
