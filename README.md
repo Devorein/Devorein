@@ -208,11 +208,11 @@ In Repository File
 <summary>:zap: Recent Github Activities</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#681](https://github.com/charmverse/app.charmverse.io/pull/681) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
-2. 💪 Opened PR [#680](https://github.com/charmverse/app.charmverse.io/pull/680) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
-3. 🎉 Merged PR [#132](https://github.com/NLP-practitioners/reinforz/pull/132) in [NLP-practitioners/reinforz](https://github.com/NLP-practitioners/reinforz)
-4. 💪 Opened PR [#132](https://github.com/NLP-practitioners/reinforz/pull/132) in [NLP-practitioners/reinforz](https://github.com/NLP-practitioners/reinforz)
-5. 🎉 Merged PR [#9](https://github.com/Devorein/discente/pull/9) in [Devorein/discente](https://github.com/Devorein/discente)
+1. 🎉 Merged PR [#10](https://github.com/Devorein/discente/pull/10) in [Devorein/discente](https://github.com/Devorein/discente)
+2. 💪 Opened PR [#10](https://github.com/Devorein/discente/pull/10) in [Devorein/discente](https://github.com/Devorein/discente)
+3. 🎉 Merged PR [#133](https://github.com/NLP-practitioners/reinforz/pull/133) in [NLP-practitioners/reinforz](https://github.com/NLP-practitioners/reinforz)
+4. 💪 Opened PR [#133](https://github.com/NLP-practitioners/reinforz/pull/133) in [NLP-practitioners/reinforz](https://github.com/NLP-practitioners/reinforz)
+5. 💪 Opened PR [#681](https://github.com/charmverse/app.charmverse.io/pull/681) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
 <!--END_SECTION:activity-->
 
 </details>
