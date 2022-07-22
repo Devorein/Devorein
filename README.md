@@ -208,11 +208,11 @@ In Repository File
 <summary>:zap: Recent Github Activities</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#717](https://github.com/charmverse/app.charmverse.io/issues/717) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
-2. 🗣 Commented on [#712](https://github.com/charmverse/app.charmverse.io/issues/712) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
-3. 🎉 Merged PR [#708](https://github.com/charmverse/app.charmverse.io/pull/708) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
-4. 🗣 Commented on [#708](https://github.com/charmverse/app.charmverse.io/issues/708) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
-5. 💪 Opened PR [#24](https://github.com/Devorein/discente/pull/24) in [Devorein/discente](https://github.com/Devorein/discente)
+1. 💪 Opened PR [#722](https://github.com/charmverse/app.charmverse.io/pull/722) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
+2. 🗣 Commented on [#717](https://github.com/charmverse/app.charmverse.io/issues/717) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
+3. 🗣 Commented on [#712](https://github.com/charmverse/app.charmverse.io/issues/712) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
+4. 🎉 Merged PR [#708](https://github.com/charmverse/app.charmverse.io/pull/708) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
+5. 🗣 Commented on [#708](https://github.com/charmverse/app.charmverse.io/issues/708) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
 <!--END_SECTION:activity-->
 
 </details>
