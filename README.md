@@ -208,11 +208,11 @@ In Repository File
 <summary>:zap: Recent Github Activities</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#27](https://github.com/Devorein/discente/pull/27) in [Devorein/discente](https://github.com/Devorein/discente)
-2. ❌ Closed PR [#26](https://github.com/Devorein/discente/pull/26) in [Devorein/discente](https://github.com/Devorein/discente)
-3. 💪 Opened PR [#26](https://github.com/Devorein/discente/pull/26) in [Devorein/discente](https://github.com/Devorein/discente)
-4. 🎉 Merged PR [#24](https://github.com/Devorein/discente/pull/24) in [Devorein/discente](https://github.com/Devorein/discente)
-5. 🎉 Merged PR [#25](https://github.com/Devorein/discente/pull/25) in [Devorein/discente](https://github.com/Devorein/discente)
+1. 💪 Opened PR [#28](https://github.com/Devorein/discente/pull/28) in [Devorein/discente](https://github.com/Devorein/discente)
+2. 🎉 Merged PR [#27](https://github.com/Devorein/discente/pull/27) in [Devorein/discente](https://github.com/Devorein/discente)
+3. 💪 Opened PR [#27](https://github.com/Devorein/discente/pull/27) in [Devorein/discente](https://github.com/Devorein/discente)
+4. ❌ Closed PR [#26](https://github.com/Devorein/discente/pull/26) in [Devorein/discente](https://github.com/Devorein/discente)
+5. 💪 Opened PR [#26](https://github.com/Devorein/discente/pull/26) in [Devorein/discente](https://github.com/Devorein/discente)
 <!--END_SECTION:activity-->
 
 </details>
