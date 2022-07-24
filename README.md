@@ -208,11 +208,11 @@ In Repository File
 <summary>:zap: Recent Github Activities</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#725](https://github.com/charmverse/app.charmverse.io/pull/725) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
-2. 🎉 Merged PR [#29](https://github.com/Devorein/discente/pull/29) in [Devorein/discente](https://github.com/Devorein/discente)
-3. 💪 Opened PR [#29](https://github.com/Devorein/discente/pull/29) in [Devorein/discente](https://github.com/Devorein/discente)
-4. 🎉 Merged PR [#28](https://github.com/Devorein/discente/pull/28) in [Devorein/discente](https://github.com/Devorein/discente)
-5. 💪 Opened PR [#28](https://github.com/Devorein/discente/pull/28) in [Devorein/discente](https://github.com/Devorein/discente)
+1. 🎉 Merged PR [#30](https://github.com/Devorein/discente/pull/30) in [Devorein/discente](https://github.com/Devorein/discente)
+2. 💪 Opened PR [#30](https://github.com/Devorein/discente/pull/30) in [Devorein/discente](https://github.com/Devorein/discente)
+3. 💪 Opened PR [#725](https://github.com/charmverse/app.charmverse.io/pull/725) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
+4. 🎉 Merged PR [#29](https://github.com/Devorein/discente/pull/29) in [Devorein/discente](https://github.com/Devorein/discente)
+5. 💪 Opened PR [#29](https://github.com/Devorein/discente/pull/29) in [Devorein/discente](https://github.com/Devorein/discente)
 <!--END_SECTION:activity-->
 
 </details>
