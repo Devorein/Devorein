@@ -208,11 +208,11 @@ In Repository File
 <summary>:zap: Recent Github Activities</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#747](https://github.com/charmverse/app.charmverse.io/pull/747) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
-2. 🎉 Merged PR [#746](https://github.com/charmverse/app.charmverse.io/pull/746) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
-3. 🎉 Merged PR [#745](https://github.com/charmverse/app.charmverse.io/pull/745) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
-4. 💪 Opened PR [#745](https://github.com/charmverse/app.charmverse.io/pull/745) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
-5. 💪 Opened PR [#740](https://github.com/charmverse/app.charmverse.io/pull/740) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
+1. 🎉 Merged PR [#31](https://github.com/Devorein/discente/pull/31) in [Devorein/discente](https://github.com/Devorein/discente)
+2. 💪 Opened PR [#31](https://github.com/Devorein/discente/pull/31) in [Devorein/discente](https://github.com/Devorein/discente)
+3. 🎉 Merged PR [#724](https://github.com/charmverse/app.charmverse.io/pull/724) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
+4. 🎉 Merged PR [#747](https://github.com/charmverse/app.charmverse.io/pull/747) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
+5. 🎉 Merged PR [#746](https://github.com/charmverse/app.charmverse.io/pull/746) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
 <!--END_SECTION:activity-->
 
 </details>
