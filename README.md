@@ -210,11 +210,11 @@ In Repository File
 <summary>:zap: Recent Github Activities</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#874](https://github.com/charmverse/app.charmverse.io/pull/874) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
-2. ❌ Closed PR [#867](https://github.com/charmverse/app.charmverse.io/pull/867) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
-3. 🎉 Merged PR [#861](https://github.com/charmverse/app.charmverse.io/pull/861) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
-4. 💪 Opened PR [#867](https://github.com/charmverse/app.charmverse.io/pull/867) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
-5. 🎉 Merged PR [#37](https://github.com/Devorein/discente/pull/37) in [Devorein/discente](https://github.com/Devorein/discente)
+1. 🎉 Merged PR [#874](https://github.com/charmverse/app.charmverse.io/pull/874) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
+2. 💪 Opened PR [#874](https://github.com/charmverse/app.charmverse.io/pull/874) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
+3. ❌ Closed PR [#867](https://github.com/charmverse/app.charmverse.io/pull/867) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
+4. 🎉 Merged PR [#861](https://github.com/charmverse/app.charmverse.io/pull/861) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
+5. 💪 Opened PR [#867](https://github.com/charmverse/app.charmverse.io/pull/867) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
 <!--END_SECTION:activity-->
 
 </details>
