@@ -4,7 +4,7 @@
 
 I'm currently working as a Software Engineer at [Charmverse](https://www.charmverse.io/). I'm also a third-year undergrad student at [BRAC University](https://bracu.ac.bd/), majoring in Computer Science.
 
-Right now I'm fully immersed in Open Source, Full-stack web (P/MERNG), mobile (React Native), blockchain (Ethereum+Solidity+Truffle), DevOps (Docker, Kubernetes, Github Actions), Cloud (AWS, GCP, DigitalOcean), Data Science (Numpy, Matplotlib, Pandas and Seaborn) and NLP (nltk).
+Right now I'm fully immersed in Open Source, Full-stack web (P/MERNG), mobile (React Native), blockchain (Ethereum+Solidity+Truffle), DevOps (Docker, Kubernetes, Github Actions), Cloud (AWS, GCP, DigitalOcean), Data Science (Numpy, Matplotlib, Pandas and Seaborn) and NLP (nltk, gensim & spacy).
 
 - 🔭 I’m currently working on ... [Fauton](https://github.com/Devorein/fauton), [reinforz](https://github.com/NLP-practitioners/reinforz) and [Charmverse](https://github.com/charmverse/app.charmverse.io)
 - 🌱 I’m currently learning ... Docker, Kubernetes, Ansible, Matplotlib, Seaborn, Pandas, Numpy and BURP Suite
@@ -135,7 +135,13 @@ Right now I'm fully immersed in Open Source, Full-stack web (P/MERNG), mobile (R
     <img src="https://raw.githubusercontent.com/uiwjs/file-icons/e384633d31ef07cceee07346fbada0aade402e46/icon/wakatime.svg" alt="Devorein's Wakatime Profile" height="30" width="30">
   </a>
   <a href="https://app.daily.dev/devorein">
-    <img src="https://daily-now-res.cloudinary.com/image/upload/v1614088267/landing/Daily.dev_logo.png" alt="Devorein's Wakatime Profile" height="30" width="30">
+    <img src="https://daily-now-res.cloudinary.com/image/upload/v1614088267/landing/Daily.dev_logo.png" alt="Devorein's daily dot dev Profile" height="30" width="30">
+  </a>
+  <a href="https://peerlist.io/devorein">
+    <img src="https://pbs.twimg.com/profile_images/1501427040847011842/ebLQEugq_400x400.jpg" alt="Devorein's Peerlist Profile" height="30" width="30">
+  </a>
+  <a href="https://poly.me/safwan_shaheer">
+    <img src="https://pbs.twimg.com/profile_images/1556751951588630529/DO0etv0d_400x400.jpg" alt="Devorein's Polywork Profile" height="30" width="30">
   </a>
 </p>
 
