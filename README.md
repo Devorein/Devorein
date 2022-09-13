@@ -216,11 +216,11 @@ In Repository File
 <summary>:zap: Recent Github Activities</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#909](https://github.com/charmverse/app.charmverse.io/pull/909) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
-2. 💪 Opened PR [#909](https://github.com/charmverse/app.charmverse.io/pull/909) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
-3. 🎉 Merged PR [#2](https://github.com/NLP-practitioners/formand/pull/2) in [NLP-practitioners/formand](https://github.com/NLP-practitioners/formand)
-4. 💪 Opened PR [#2](https://github.com/NLP-practitioners/formand/pull/2) in [NLP-practitioners/formand](https://github.com/NLP-practitioners/formand)
-5. 💪 Opened PR [#905](https://github.com/charmverse/app.charmverse.io/pull/905) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
+1. 🎉 Merged PR [#3](https://github.com/NLP-practitioners/formand/pull/3) in [NLP-practitioners/formand](https://github.com/NLP-practitioners/formand)
+2. 🎉 Merged PR [#909](https://github.com/charmverse/app.charmverse.io/pull/909) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
+3. 💪 Opened PR [#909](https://github.com/charmverse/app.charmverse.io/pull/909) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
+4. 🎉 Merged PR [#2](https://github.com/NLP-practitioners/formand/pull/2) in [NLP-practitioners/formand](https://github.com/NLP-practitioners/formand)
+5. 💪 Opened PR [#2](https://github.com/NLP-practitioners/formand/pull/2) in [NLP-practitioners/formand](https://github.com/NLP-practitioners/formand)
 <!--END_SECTION:activity-->
 
 </details>
