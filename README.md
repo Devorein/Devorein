@@ -216,11 +216,11 @@ In Repository File
 <summary>:zap: Recent Github Activities</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1185](https://github.com/charmverse/app.charmverse.io/pull/1185) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
-2. 💪 Opened PR [#1180](https://github.com/charmverse/app.charmverse.io/pull/1180) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
-3. 🎉 Merged PR [#1170](https://github.com/charmverse/app.charmverse.io/pull/1170) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
-4. 🗣 Commented on [#1170](https://github.com/charmverse/app.charmverse.io/issues/1170) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
-5. 🎉 Merged PR [#1175](https://github.com/charmverse/app.charmverse.io/pull/1175) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
+1. 💪 Opened PR [#1191](https://github.com/charmverse/app.charmverse.io/pull/1191) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
+2. 💪 Opened PR [#1190](https://github.com/charmverse/app.charmverse.io/pull/1190) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
+3. 💪 Opened PR [#1189](https://github.com/charmverse/app.charmverse.io/pull/1189) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
+4. 💪 Opened PR [#1185](https://github.com/charmverse/app.charmverse.io/pull/1185) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
+5. 💪 Opened PR [#1180](https://github.com/charmverse/app.charmverse.io/pull/1180) in [charmverse/app.charmverse.io](https://github.com/charmverse/app.charmverse.io)
 <!--END_SECTION:activity-->
 
 </details>
