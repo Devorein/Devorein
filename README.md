@@ -175,18 +175,7 @@ Right now I'm fully immersed in Open Source, Full-stack web (P/MERNG), mobile (R
   
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=devorein&custom_title=Wakatime&theme=dark&layout=compact&langs_count=5" alt="Devorein :: Wakatime Stats" /></p>
 
-<p align="center">
-   <table>
-      <tr>
-       <th>Profile stats  </th>
-       <th>Language Contribution</th>
-     </tr>
-      <tr>
-       <td><img alt="Devorein :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=Devorein&show_icons=true&theme=dark"> </td>
-       <td><img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devorein&langs_count=10&theme=tokyonight&layout=compact&hide=html"> </td>
-     </tr>
-   </table>
-</p>
+<p align="center"><img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devorein&langs_count=10&theme=tokyonight&layout=compact&hide=html"></p>
 
 <details>
 <summary>📚 My Latest Blog Posts</summary>
